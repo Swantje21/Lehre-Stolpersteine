@@ -83,7 +83,7 @@ Details folgen im Laufe des Semesters.
 
 <!-- Das eigene Foto unter images/stolperstein_heinrich_theede.jpg ablegen. -->
 
-![Stolperstein für Heinrich Theede in Kiel](images/stolperstein_heinrich_theede.jpg)
+![Stolperstein für Heinrich Theede in Kiel](images/Stolperstein_Theede.png)
 
 **Gemeinsame Bildbetrachtung**
 
