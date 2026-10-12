@@ -81,8 +81,6 @@ Details folgen im Laufe des Semesters.
 
 ### Was erzählt uns ein Stolperstein?
 
-<!-- Das eigene Foto unter images/stolperstein_heinrich_theede.jpg ablegen. -->
-
 ![Stolperstein für Heinrich Theede in Kiel](images/Stolperstein_Theede.png)
 
 **Gemeinsame Bildbetrachtung**
