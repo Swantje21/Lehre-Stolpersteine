@@ -23,6 +23,8 @@ Daten sind zu einer wichtigen Grundlage historischer Forschung geworden. Digital
 
 Das Seminar widmet sich der Recherche und Analyse historisch relevanter Datensätze aus offenen Datenportalen. Im Mittelpunkt stehen Fragen nach Herkunft, Qualität, Lizenzierung und Nachnutzbarkeit von Daten sowie nach den Möglichkeiten und Grenzen datenbasierter Wissensproduktion. Auf Grundlage der recherchierten Daten entwickeln die Teilnehmenden eigene digitale Projekte. Die ausgewählten Datensätze werden analysiert, mit weiteren offenen Datenbeständen angereichert und in geeigneten Formaten visualisiert, beispielsweise durch Karten, Diagramme oder interaktive Anwendungen. Ziel ist es, aus Daten neue Perspektiven auf historische Fragestellungen zu gewinnen und digitale Zugänge zur Geschichte zu schaffen. Als Prüfungsleistung ist die Entwicklung eines datenbasierten Projekts einschließlich einer dokumentierten Reflexion der methodischen Entscheidungen und Arbeitsschritte vorgesehen. **Das Seminar wird in Kooperation mit Frau Britta Petersen vom zentralen Forschungsdatenmanagement des Rechenzentrums durchgeführt.**
 
+---
+
 **Lernziele:**
 
 * fachwissenschaftliche Einordnung von Quellen
@@ -75,8 +77,6 @@ Details folgen im Laufe des Semesters.
 2. Weil es sich um eine Forschungswerkstatt handelt, erwarten wir Eigenengagement und Eigeninitiative für das Thema: Sie werden an verschiedenen Stellen selbst recherchieren, arbeiten und experementieren müssen. Im Gegenzug unterstützen wir Sie, wo wir können.
 3. Es kann sein, dass Sie in Ihren Biographien wenig oder gar keine Informationen finden: Das ist auch ein Ergebnis, dessen Dokumentation einen Wert hat!
 4. Der Seminarplan ist "im Fluss".
-
-
 
 
 ### Was erzählt uns ein Stolperstein?
