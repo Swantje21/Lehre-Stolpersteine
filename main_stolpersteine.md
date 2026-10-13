@@ -91,26 +91,6 @@ Details folgen im Laufe des Semesters.
 
 ---
 
-### Heinrich Theede: Was wissen wir – und was bleibt offen?
-
-**Die biografische Recherche von 2008**
-
-* **1887:** Geburt in Segeberg.
-* **5. Oktober 1943:** Inhaftierung in Kiel in sogenannter „Schutzhaft“.
-* **10. Dezember 1943:** Überstellung an die Gestapo in Berlin.
-* **Mai 1944:** Hinrichtung im Zuchthaus Brandenburg-Görden wegen „Wehrkraftzersetzung“.
-
-**Quellenkritische Fragen**
-
-* Was bedeutet der Vorwurf „Wehrkraftzersetzung“ im historischen Kontext?
-* Welche Stationen seines Verfolgungswegs lassen sich rekonstruieren – und welche nicht?
-* Auf dem Stein steht der **15. Mai 1944**. Die Recherche nennt den **15. oder 19. Mai 1944**. Was geschieht mit historischer Unsicherheit, wenn sie in eine Gedenkinschrift übersetzt wird?
-
-**Quelle:** [Biografische Schülerrecherche zu Heinrich Theede (2008), AKENS (PDF)](https://www.akens.org/akens/texte/stolpersteine/kiel_verdi/theede2008.pdf)
-
----
-
-
 # Forschungsdaten 🧪
 
 {{0-1}}
@@ -189,9 +169,25 @@ Die DFG schreibt hierzu:
 | ***Evidenz***             | Daten oder Informationen, die zur Untermauerung oder Anfechtung einer Behauptung herangezogen werden | Die These, dass Zwangsarbeiter:innen überwiegend in Gemeinschaftsunterkünften untergebracht waren, wird durch die ausgewerteten Meldekarten gestützt. |
 | ***Forschungsergebnis***  | Ein Ergebnis der Forschung | Ein wissenschaftlicher Artikel zur Wohnsituation von Zwangsarbeitern, eine kommentierte digitale Karte der Unterkünfte, eine Ausstellung zur Wohnsituation von Zwangsarbeiter:innen |
 
----
-
 <small>Source: Adapted from [Hassan, M. (2026, June 28). Research Data – Definition, Types, Examples and Best Practices. Research Method.](https://researchmethod.net/research-data/)</small>
+
+
+### Heinrich Theede: Was wissen wir – und was bleibt offen?
+
+**Die biografische Recherche von 2008**
+
+* **1887:** Geburt in Segeberg.
+* **5. Oktober 1943:** Inhaftierung in Kiel in sogenannter „Schutzhaft“.
+* **10. Dezember 1943:** Überstellung an die Gestapo in Berlin.
+* **Mai 1944:** Hinrichtung im Zuchthaus Brandenburg-Görden wegen „Wehrkraftzersetzung“.
+
+**Quellenkritische Fragen**
+
+* Was bedeutet der Vorwurf „Wehrkraftzersetzung“ im historischen Kontext?
+* Welche Stationen seines Verfolgungswegs lassen sich rekonstruieren – und welche nicht?
+* Auf dem Stein steht der **15. Mai 1944**. Die Recherche nennt den **15. oder 19. Mai 1944**. Was geschieht mit historischer Unsicherheit, wenn sie in eine Gedenkinschrift übersetzt wird?
+
+**Quelle:** [Biografische Schülerrecherche zu Heinrich Theede (2008), AKENS (PDF)](https://www.akens.org/akens/texte/stolpersteine/kiel_verdi/theede2008.pdf)
 
 ### Aufgabe zur nächsten Woche
 
