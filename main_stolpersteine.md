@@ -91,7 +91,7 @@ Details folgen im Laufe des Semesters.
 
 ---
 
-# Forschungsdaten 🧪
+## Forschungsdaten 🧪
 
 {{0-1}}
 ********************************************************************************
@@ -154,7 +154,7 @@ Die DFG schreibt hierzu:
 
 <div style="page-break-after: always;"></div>
 
-## Ähnlich, aber nicht gleich!
+### Ähnlich, aber nicht gleich!
 
 >[!IMPORTANT] Forschungsdaten, Datensatz, Informationen und Evidenz: ähnliche Begriffe, die wir trotzdem auseinanderhalten müssen. ACHTUNG: Die Bedeutungen der Begriffe können sich in Fachbereichen unterscheiden!
 
@@ -189,7 +189,7 @@ Die DFG schreibt hierzu:
 
 **Quelle:** [Biografische Schülerrecherche zu Heinrich Theede (2008), AKENS (PDF)](https://www.akens.org/akens/texte/stolpersteine/kiel_verdi/theede2008.pdf)
 
-### Aufgabe zur nächsten Woche
+## Aufgabe zur nächsten Woche
 
 Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
