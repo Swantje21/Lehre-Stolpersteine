@@ -110,6 +110,89 @@ Details folgen im Laufe des Semesters.
 
 ---
 
+
+# Forschungsdaten 🧪
+
+{{0-1}}
+********************************************************************************
+
+<!-- style="font-size: 30px;" -->
+>**Lasst uns kurz gemeinsam sammeln!**
+>
+>Mit was für Forschungsdaten wird in einem geschichtswissenschaftlichen Forschungsprozess gearbeitet?
+>
+>**Nennt alle Beispiele, die Euch einfallen!**
+>
+>https://answergarden.ch/5241607
+
+********************************************************************************
+
+{{1-2}}
+********************************************************************************
+
+<iframe src="https://answergarden.ch/5241607" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<div style="page-break-after: always;"></div>
+
+********************************************************************************
+
+{{2-3}}
+********************************************************************************
+<!-- style="font-size: 25px;" -->
+Die DFG schreibt hierzu:
+
+> „Zu Forschungsdaten zählen u. a. Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten oder Beobachtungsdaten, methodische Testverfahren sowie Fragebögen. Korpora und Simulationen können ebenfalls zentrale Ergebnisse wissenschaftlicher Forschung darstellen und werden daher ebenfalls unter den Begriff Forschungsdaten gefasst. Da Forschungsdaten in einigen Fachbereichen auf der Analyse von Objekten basieren (z. B. Gewebe-, Material-, Gesteins-, Wasser- und Bodenproben, Prüfkörper, Installationen, Artefakte und Kunstgegenstände), muss der Umgang mit diesen ebenso sorgfältig sein und eine fachlich adäquate Nachnutzungsmöglichkeit, wann immer sinnvoll und möglich, mitgedacht werden. Ähnliches gilt, wenn Software für die Entstehung oder Verarbeitung von Forschungsdaten erforderlich ist.“
+>
+> (**DFG 2021**)
+
+***********************************************************
+
+{{3}}
+***********************************************************
+
+![Bild](images/forschungsdatenBSP.png) <!-- width="350px" align="right" -->
+
+<!-- style="font-size: 25px;" -->
+**Beispiele für Forschungsdaten**:
+
+- Audio- und Videoaufzeichnungen
+- Tagebücher
+- Geodaten
+- Labor- und Feldnotizen
+- Modell-, Skript- und Forschungssoftwarecode
+- Bilder und Abbildungen
+- Fragebögen und Codebücher
+- physische Proben und Artefakte
+- Sensor-Daten
+- Sequenzierdaten
+- Spektren
+- Text- und Tabellenkalkulationsdokumente
+- Textkorpora und Annotationen
+- …
+
+********************************************************************************
+
+<div style="page-break-after: always;"></div>
+
+## Ähnlich, aber nicht gleich!
+
+>[!IMPORTANT] Forschungsdaten, Datensatz, Informationen und Evidenz: ähnliche Begriffe, die wir trotzdem auseinanderhalten müssen. ACHTUNG: Die Bedeutungen der Begriffe können sich in Fachbereichen unterscheiden!
+
+---
+
+<!-- style="font-size: 18px;" -->
+| Begriff  | Bedeutung | Beispiel |
+| -------- | --------  | -------- |
+| ***Forschungsdaten***     | Materialien und Belege, die der Forschung dienen | Historische Dokumente, Interviewtranskript, Code |
+| ***Datensatz***           | Strukturierte Sammlung zusammenhängender Daten, in der Regel begleitet von Dokumentation | Eine CSV-Datei mit transkribierten Angaben aus historischen Meldekarten, beispielsweise zu Namen, Wohnorten, Beschäftigungsverhältnissen und Quellenangaben, ergänzt durch ein Codebuch und eine README-Datei |
+| ***Information***         | Daten, die interpretiert oder in einen Kontext gestellt wurden | Die Auswertung von Meldekarten zeigt, dass ein großer Teil der dokumentierten Zwangsarbeiter:innen in Gemeinschaftsunterkünften untergebracht war. |
+| ***Evidenz***             | Daten oder Informationen, die zur Untermauerung oder Anfechtung einer Behauptung herangezogen werden | Die These, dass Zwangsarbeiter:innen überwiegend in Gemeinschaftsunterkünften untergebracht waren, wird durch die ausgewerteten Meldekarten gestützt. |
+| ***Forschungsergebnis***  | Ein Ergebnis der Forschung | Ein wissenschaftlicher Artikel zur Wohnsituation von Zwangsarbeitern, eine kommentierte digitale Karte der Unterkünfte, eine Ausstellung zur Wohnsituation von Zwangsarbeiter:innen |
+
+---
+
+<small>Source: Adapted from [Hassan, M. (2026, June 28). Research Data – Definition, Types, Examples and Best Practices. Research Method.](https://researchmethod.net/research-data/)</small>
+
 ### Aufgabe zur nächsten Woche
 
 Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
@@ -118,8 +201,11 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 * [Beate Meyer](https://www.stolpersteine-hamburg.de/?MAIN_ID=6&RECORD_ID=561)
 
 Wählen Sie anschließend einen Kieler Stolperstein aus ((falls möglich, in Ihrer Nähe oder mit Bezug) und recherchieren Sie die dazu verfügbaren biografischen Informationen.
+
 Bearbeiten Sie folgende Fragen:
+
 1. Welche historischen Informationen lassen sich über die Person rekonstruieren? Welche Fragen bleiben offen?
 2. Was erfahren Sie über die Entstehung des Stolpersteins und die heutige Erinnerung an diese Person?
+3. In welchen Formen liegen die Informationen vor, die Sie für Ihre Recherche nutzen (z. B. historische Dokumente, Fotografien, Zeitzeug:innen, Videoaufzeichnungen, ...)? Welche dieser Materialien können als Forschungsdaten dienen, und welche Informationen lassen sich daraus gewinnen?
 
 Halten Sie Ihre Überlegungen in Stichpunkten fest (max. eine Seite). Bringen Sie Ihre Ergebnisse zur nächsten Sitzung mit.
