@@ -94,7 +94,7 @@ Was erzählt uns ein Stolperstein?
 
 ---
 
-## Forschungsdaten
+### Forschungsdaten
 
 {{0-1}}
 ********************************************************************************
@@ -192,7 +192,7 @@ Die DFG schreibt hierzu:
 
 **Quelle:** [Biografische Schülerrecherche zu Heinrich Theede (2008), AKENS (PDF)](https://www.akens.org/akens/texte/stolpersteine/kiel_verdi/theede2008.pdf)
 
-## Aufgabe zur nächsten Woche
+### Aufgabe zur nächsten Woche
 
 Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
