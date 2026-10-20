@@ -23,22 +23,6 @@ Daten sind zu einer wichtigen Grundlage historischer Forschung geworden. Digital
 
 Das Seminar widmet sich der Recherche und Analyse historisch relevanter Datensätze aus offenen Datenportalen. Im Mittelpunkt stehen Fragen nach Herkunft, Qualität, Lizenzierung und Nachnutzbarkeit von Daten sowie nach den Möglichkeiten und Grenzen datenbasierter Wissensproduktion. Auf Grundlage der recherchierten Daten entwickeln die Teilnehmenden eigene digitale Projekte. Die ausgewählten Datensätze werden analysiert, mit weiteren offenen Datenbeständen angereichert und in geeigneten Formaten visualisiert, beispielsweise durch Karten, Diagramme oder interaktive Anwendungen. Ziel ist es, aus Daten neue Perspektiven auf historische Fragestellungen zu gewinnen und digitale Zugänge zur Geschichte zu schaffen. Als Prüfungsleistung ist die Entwicklung eines datenbasierten Projekts einschließlich einer dokumentierten Reflexion der methodischen Entscheidungen und Arbeitsschritte vorgesehen. **Das Seminar wird in Kooperation mit Frau Britta Petersen vom zentralen Forschungsdatenmanagement des Rechenzentrums durchgeführt.**
 
-## Lernziele und weiterführende Links
-
-**Lernziele:**
-
-* fachwissenschaftliche Einordnung von Quellen
-* vertiefte fachwissenschaftliche Kenntnisse (Erinnerungskultur, Biographiegeschichte, Public History)
-* Methodenkompetenz im Bereich der Digital Humanities
-* Visualisierung und Präsentation der Forschungsergebnisse
-* Erfahrungen in den Berufs- und Praxisfeldern Wissensvermittlung eigenständiges und selbstorganisiertes Arbeiten
-
-**Weiterführende Links und Literatur:**
-
-* Link zum **Stolpersteine Stadt Kiel:** https://www.kiel.de/de/kultur_freizeit/stadtgeschichte/stolpersteine.php
-* Link zum **Stolperseteine WIKI:** https://de.wikipedia.org/wiki/Liste_der_Stolpersteine_in_Kiel
-* Link zum **Open Data SH**: https://opendata.schleswig-holstein.de/dataset/
-
 ## Allgemeines
 
 ### Semesterplan
@@ -63,7 +47,21 @@ Das Seminar widmet sich der Recherche und Analyse historisch relevanter Datensä
 | 28.01. | Peer-Review Projektarbeit |
 | 04.02. | Präsentation der Ergebnisse und Evaluation des Seminars |
 
+### Lernziele und weiterführende Links
 
+**Lernziele:**
+
+* fachwissenschaftliche Einordnung von Quellen
+* vertiefte fachwissenschaftliche Kenntnisse (Erinnerungskultur, Biographiegeschichte, Public History)
+* Methodenkompetenz im Bereich der Digital Humanities
+* Visualisierung und Präsentation der Forschungsergebnisse
+* Erfahrungen in den Berufs- und Praxisfeldern Wissensvermittlung eigenständiges und selbstorganisiertes Arbeiten
+
+**Weiterführende Links und Literatur:**
+
+* Link zum **Stolpersteine Stadt Kiel:** https://www.kiel.de/de/kultur_freizeit/stadtgeschichte/stolpersteine.php
+* Link zum **Stolperseteine WIKI:** https://de.wikipedia.org/wiki/Liste_der_Stolpersteine_in_Kiel
+* Link zum **Open Data SH**: https://opendata.schleswig-holstein.de/dataset/
 
 ### Prüfungsleistung
 
