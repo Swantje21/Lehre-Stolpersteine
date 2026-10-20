@@ -199,7 +199,7 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 * [Christop Cornelißen](https://docupedia.de/zg/cornelissen_erinnerungskulturen_v2_de_2012)
 * [Beate Meyer](https://www.stolpersteine-hamburg.de/?MAIN_ID=6&RECORD_ID=561)
 
-Wählen Sie anschließend einen Kieler Stolperstein aus ((falls möglich, in Ihrer Nähe oder mit Bezug) und recherchieren Sie die dazu verfügbaren biografischen Informationen.
+Wählen Sie anschließend einen Kieler Stolperstein aus (falls möglich, in Ihrer Nähe oder mit Bezug) und recherchieren Sie die dazu verfügbaren biografischen Informationen.
 
 Bearbeiten Sie folgende Fragen:
 
