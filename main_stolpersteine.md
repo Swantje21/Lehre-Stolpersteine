@@ -39,7 +39,7 @@ Das Seminar widmet sich der Recherche und Analyse historisch relevanter Datensä
 * Link zum **Stolperseteine WIKI:** https://de.wikipedia.org/wiki/Liste_der_Stolpersteine_in_Kiel
 * Link zum **Open Data SH**: https://opendata.schleswig-holstein.de/dataset/
 
-## Allgemeines und erste Sitzung
+## Allgemeines
 
 ### Semesterplan
 
@@ -79,7 +79,10 @@ Details folgen im Laufe des Semesters.
 4. Der Seminarplan ist "im Fluss".
 
 
-### Was erzählt uns ein Stolperstein?
+## Sitzung 1
+
+Was erzählt uns ein Stolperstein?
+---
 
 ![Stolperstein für Heinrich Theede in Kiel](images/Stolperstein_Theede.png)
 
@@ -91,7 +94,7 @@ Details folgen im Laufe des Semesters.
 
 ---
 
-## Forschungsdaten 🧪
+## Forschungsdaten
 
 {{0-1}}
 ********************************************************************************
