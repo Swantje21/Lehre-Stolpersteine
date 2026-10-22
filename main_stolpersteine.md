@@ -17,6 +17,8 @@ Ein Aufbauseminar zur Geschichte der Neuzeit (WS 2026/27)
 
 **Zeit und Raum:** Do 10:15 - 11:45, UB Kiel, DLL
 
+---
+
 **Inhalt:**
 
 Daten sind zu einer wichtigen Grundlage historischer Forschung geworden. Digitale Datensammlungen eröffnen neue Möglichkeiten, historische Entwicklungen zu analysieren und sichtbar zu machen. Mit der wachsenden Verfügbarkeit offener Datenbestände entstehen neue digitale Quellenräume, die historische Forschung und Geschichtsvermittlung erweitern. Zugleich werfen sie Fragen nach Herkunft, Qualität, Vollständigkeit und Nachnutzbarkeit von Daten auf.
@@ -57,6 +59,8 @@ Das Seminar widmet sich der Recherche und Analyse historisch relevanter Datensä
 * Visualisierung und Präsentation der Forschungsergebnisse
 * Erfahrungen in den Berufs- und Praxisfeldern Wissensvermittlung eigenständiges und selbstorganisiertes Arbeiten
 
+---
+
 **Weiterführende Links und Literatur:**
 
 * Link zum **Stolpersteine Stadt Kiel:** https://www.kiel.de/de/kultur_freizeit/stadtgeschichte/stolpersteine.php
@@ -75,7 +79,6 @@ Details folgen im Laufe des Semesters.
 2. Weil es sich um eine Forschungswerkstatt handelt, erwarten wir Eigenengagement und Eigeninitiative für das Thema: Sie werden an verschiedenen Stellen selbst recherchieren, arbeiten und experementieren müssen. Im Gegenzug unterstützen wir Sie, wo wir können.
 3. Es kann sein, dass Sie in Ihren Biographien wenig oder gar keine Informationen finden: Das ist auch ein Ergebnis, dessen Dokumentation einen Wert hat!
 4. Der Seminarplan ist "im Fluss".
-
 
 ## Sitzung 1
 
@@ -119,9 +122,11 @@ Was erzählt uns ein Stolperstein?
 
 {{2-3}}
 ********************************************************************************
+
 <!-- style="font-size: 25px;" -->
 Die DFG schreibt hierzu:
 
+<!-- style="font-size: 25px;" -->
 > „Zu Forschungsdaten zählen u. a. Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten oder Beobachtungsdaten, methodische Testverfahren sowie Fragebögen. Korpora und Simulationen können ebenfalls zentrale Ergebnisse wissenschaftlicher Forschung darstellen und werden daher ebenfalls unter den Begriff Forschungsdaten gefasst. Da Forschungsdaten in einigen Fachbereichen auf der Analyse von Objekten basieren (z. B. Gewebe-, Material-, Gesteins-, Wasser- und Bodenproben, Prüfkörper, Installationen, Artefakte und Kunstgegenstände), muss der Umgang mit diesen ebenso sorgfältig sein und eine fachlich adäquate Nachnutzungsmöglichkeit, wann immer sinnvoll und möglich, mitgedacht werden. Ähnliches gilt, wenn Software für die Entstehung oder Verarbeitung von Forschungsdaten erforderlich ist.“
 >
 > (**DFG 2021**)
@@ -131,7 +136,7 @@ Die DFG schreibt hierzu:
 {{3}}
 ***********************************************************
 
-![Bild](images/forschungsdatenBSP.png) <!-- width="350px" align="right" -->
+![Beispiele Forschungsdaten](images/forschungsdatenBSP.png) <!-- width="350px" align="right" -->
 
 <!-- style="font-size: 25px;" -->
 **Beispiele für Forschungsdaten**:
@@ -196,6 +201,8 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 
 * [Christop Cornelißen](https://docupedia.de/zg/cornelissen_erinnerungskulturen_v2_de_2012)
 * [Beate Meyer](https://www.stolpersteine-hamburg.de/?MAIN_ID=6&RECORD_ID=561)
+
+<br>
 
 Wählen Sie anschließend einen Kieler Stolperstein aus (falls möglich, in Ihrer Nähe oder mit Bezug) und recherchieren Sie die dazu verfügbaren biografischen Informationen.
 
