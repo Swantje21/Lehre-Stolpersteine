@@ -374,3 +374,22 @@ https://zenodo.org/records/17609747
 
 3. Stolpersteine in Kiel
 
+### Data Assessment: Stolpersteine Kiel
+
+**Aufgabe:** Suchen Sie im [Open Data Portal Schleswig-Holstein](https://opendata.schleswig-holstein.de/dataset) nach einem Datensatz zum Thema Stolpersteine in Kiel.
+
+Füllen Sie die Checkliste anhand der verfügbaren Informationen aus. Halten Sie fest, wo Sie Ihre Antworten gefunden haben. Kennzeichnen Sie Fragen, die Sie nicht beantworten können.
+
+| Kriterium | Leitfragen |
+|---|---|
+| **1. Herkunft und Verantwortlichkeit** | Wer hat die Daten erstellt? Wer stellt sie bereit? Gibt es Angaben zur verantwortlichen Organisation oder zur ursprünglichen Quelle? |
+| **2. Entstehungskontext und Zweck** | Warum und für welchen Zweck wurden die Daten erstellt? Welche Perspektive auf die Stolpersteine wird dadurch sichtbar? |
+| **3. Zeitbezug und Aktualität** | Wann wurden die Daten erstellt und zuletzt aktualisiert? Auf welchen historischen Zeitraum beziehen sie sich? |
+| **4. Vollständigkeit und Abdeckung** | Welche Informationen sind enthalten, welche fehlen? Ist erkennbar, ob alle Stolpersteine in Kiel erfasst sind? |
+| **5. Struktur und Granularität** | Was bildet eine Zeile bzw. ein Datensatz ab? Welche Informationen sind in einzelnen Spalten enthalten? Auf welcher räumlichen und zeitlichen Ebene liegen die Angaben vor? |
+| **6. Dokumentation und Datenqualität** | Sind die Spalten und Werte verständlich erklärt? Gibt es fehlende, mehrdeutige oder widersprüchliche Angaben? Sind die Erhebungsmethoden dokumentiert? |
+| **7. Lizenz und rechtliche Nachnutzung** | Unter welcher Lizenz stehen die Daten? Welche Nutzung, Bearbeitung und Weitergabe ist erlaubt? Gibt es Hinweise auf weitere rechtliche Einschränkungen? |
+| **8. Technische Verarbeitbarkeit** | In welchem Format werden die Daten angeboten? Sind sie maschinenlesbar und mit gängigen Werkzeugen weiterzuverarbeiten? Gibt es einen Download oder eine API? |
+| **9. Verfügbarkeit und Persistenz** | Ist der Datensatz dauerhaft erreichbar? Gibt es eine stabile URL, eine DOI, eine Versionsangabe oder eine Möglichkeit, die verwendete Datenversion zu dokumentieren? |
+| **10. Repräsentation und Perspektive** | Welche Personen, Orte und Aspekte der Geschichte werden sichtbar? Welche Informationen oder Perspektiven könnten fehlen? Was sollte bei der Interpretation berücksichtigt werden? |
+| **11. Eignung für eine Fragestellung** | Welche historischen oder räumlichen Fragen könnten Sie mit den Daten untersuchen? Welche zusätzlichen Daten oder Aufbereitungsschritte wären dafür nötig? |
