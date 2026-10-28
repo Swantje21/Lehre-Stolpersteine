@@ -365,12 +365,13 @@ Wo finden wir Offene Daten?
 Suchen und bewerten 
 ---
 
-Findet folgende Resourcen und bewertet, ob es sich dabei um Open Data handelt:
+Findet folgende Ressourcen und bewertet, ob es sich bei den jeweiligen Ressourcen um Open Data handelt:
 
-1. Stolpersteine als Erinnerungsmarker und Lerngelegenheiten im europäischen urbanen Strassenbild
-https://zenodo.org/records/17609747
+1. Stolpersteine als Erinnerungsmarker und Lerngelegenheiten im europäischen urbanen Strassenbild, Christian Mathis
 
-2. [Schriftgut.SH](https://schriftgut.sh/)
+2. Luftbild mit Blick über die durch Bomben nördlich vom Dreiecksplatz zerstörten, von der Holtenauer Straße links und rechts abgehenden Straßenzüge.
 
-3. Stolpersteine in Kiel
+3. Vornehmheit und Tüchtigkeit. Dem deutschen Volke zur Einkehr, Havenstein, Martin 
+
+4. **Einen Datensatz zu Stolpersteinen im Stadtgebiet Kiel**
 
