@@ -213,3 +213,164 @@ Bearbeiten Sie folgende Fragen:
 3. In welchen Formen liegen die Informationen vor, die Sie für Ihre Recherche nutzen (z. B. historische Dokumente, Fotografien, Zeitzeug:innen, Videoaufzeichnungen, ...)? Welche dieser Materialien können als Forschungsdaten dienen, und welche Informationen lassen sich daraus gewinnen?
 
 Halten Sie Ihre Überlegungen in Stichpunkten fest (max. eine Seite). Bringen Sie Ihre Ergebnisse zur nächsten Sitzung mit.
+
+## Sitzung 2
+
+### Open Data?
+
+**Was bedeutet es, wenn Daten "offen" sind?**
+---
+
+---
+
+<br>
+
+oder anders:
+
+>**Welche der folgenden Aussagen treffen auf _Open Data_ zu?**
+>
+>[[X]] Die Daten sind kostenlos zugänglich.
+>[[ ]] Die Daten dürfen ausschließlich für wissenschaftliche Zwecke genutzt werden.
+>[[X]] Die Daten dürfen unter bestimmten Bedingungen weiterverwendet werden.
+>[[X]] Die Nutzungsbedingungen erlauben eine Weiterverwendung, auch durch Dritte.
+>[[ ]] Alle im Internet verfügbaren Daten sind Open Data.
+>
+
+### Open Data Definition
+
+{{0-1}}
+**************
+
+>Bitkom (2017): „Open Data Manifest“, derived from Jesper Zedlitz (2025): "Open Data in Schleswig-Holstein" 2025
+>
+> -- **Open Data sind ungefilterte, maschinenlesbare elektronische Daten, die jedem öffentlich, zweckfrei und unverbindlich zur Verfügung gestellt werden.**
+
+**************
+
+{{1}}
+**************
+
+Open Data...
+--- 
+
+...sind Daten, die **grundsätzlich für alle zugänglich** sind und **unter solchen Bedingungen** bereitgestellt werden, die eine **freie Weiterverwendung** ermöglichen.
+
+---
+
+Je nach **Lizenz** können offene Daten:
+
+- heruntergeladen und gespeichert,
+- analysiert und ausgewertet,
+- verändert und mit anderen Daten kombiniert,
+- veröffentlicht und weitergegeben werden.
+
+Beispiele für mögliche *Bedingungen*:
+
+- Pflicht, die Quelle zu nennen ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+- unter den selben Bedingungen veröffentlichen. ([CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/))
+
+**************
+
+{{2}}
+**************
+
+Open Data bedeutet nicht,...
+---
+
+- dass Daten automatisch vertrauenswürdig sind,
+- dass Daten fehlerfrei oder vollständig sind,
+- dass sie ohne technische Aufbereitung verwendbar sind,
+- dass keine Lizenzbedingungen zu beachten sind,
+- dass alle enthaltenen Informationen automatisch uneingeschränkt veröffentlicht werden dürfen.
+
+**************
+
+### Fünf-Sterne-Modell zu offenen Daten
+
+Um den **Grad der Offenheit** von Datensätzen zu klassifizieren, wird auf das "Fünf-Sterne-Modell" zurückgegriffen:
+
+Das Fünf-Sterne-Modell ist kaskadierend: Den zweiten Stern bekommen Datensätze nur, wenn bereits die Voraussetzungen für den ersten Stern erfüllt. Voraussetzung für den ersten Stern ist die **offene Lizenz**.
+
+| Sterne | Bedingungen |
+|---|---|
+|  | Keine offene Lizenz |
+| ⭐ | Daten im Web (Dateiformat egal) mit offener Lizenz |
+| ⭐⭐ | Verfügbar als maschinenlesbare strukturierte Daten (z. B. Excel statt eines gescannten Bildes einer Tabelle) |
+| ⭐⭐⭐ | Daten in strukturiertem, nicht proprietärem Format (z.B. CSV statt Excel) |
+| ⭐⭐⭐⭐ | All das und noch dazu: Verwendung von eindeutigen URLs, so dass Datensätze verlinkt werden können |
+| ⭐⭐⭐⭐⭐ | All das und noch dazu: Verknüpfung der Daten mit denen anderer, um einen Kontext zu schaffen |
+
+---
+
+
+Weiterlesen:
+---
+- https://opendatahandbook.org/guide/en/what-is-open-data/
+- https://www.w3.org/DesignIssues/LinkedData.html 
+
+
+### Offene Lizenzen
+
+{{0-1}}
+**************
+
+Die Wahl der **Lizenz** entscheidet darüber, wie offen und frei nachnutzbar Daten tatsächlich sind.
+
+Eine klare und verständliche Lizenz schafft **Rechtssicherheit** sowohl für Datenbereitstellende als auch für Datennutzende.
+
+Es existieren verschiedene Lizenzsysteme. Darunter sind die [Creative Commons (CC) Lizenzen](https://creativecommons.org/cc-licenses/) die weltweit etabliertesten.
+
+<iframe src="https://creativecommons.org/cc-licenses/" style="border:1px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+---
+
+**************
+
+{{1}}
+**************
+
+Welche der [Creative Commons (CC) Lizenzen](https://creativecommons.org/cc-licenses/) gelten als **offene Lizenzen**?
+
+**************
+
+{{2}}
+**************
+
+>[!IMPORTANT] Nur CC-0, CC-BY und CC-BY-SA gelten als offene Lizenzen!
+>
+>Eine Übersicht über komforme Lizenzen findet sich z. B. hier: https://opendefinition.org/licenses/ 
+
+**************
+
+### Open Data finden und bewerten
+
+{{0-1}}
+**************
+Wo finden wir Offene Daten?
+
+- kurzes Brainstorming
+
+<iframe src="https://zumpad.zum.de/p/opendata-finden " style="border:1px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+---
+
+{{1-2}}
+**************
+<iframe src="https://opendata.schleswig-holstein.de/dataset" style="border:1px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
+{{2}}
+**************
+
+Suchen und bewerten 
+---
+
+Findet folgende Resourcen und bewertet, ob es sich dabei um Open Data handelt:
+
+1. Stolpersteine als Erinnerungsmarker und Lerngelegenheiten im europäischen urbanen Strassenbild
+https://zenodo.org/records/17609747
+
+2. [Schriftgut.SH](https://schriftgut.sh/)
+
+3. Stolpersteine in Kiel
+
