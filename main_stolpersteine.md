@@ -216,29 +216,36 @@ Halten Sie Ihre Überlegungen in Stichpunkten fest (max. eine Seite). Bringen Si
 
 ## Sitzung 2
 
+
 ### Wie definiert Christoph Cornelißen Erinnerungskultur?
+
+{{0-1}}
+********************************************************************************
 
 **Enges Begriffsverständnis**
 
-Im engeren Sinne bezeichnet Erinnerungskultur den öffentlichen Umgang mit Geschichte außerhalb der Geschichtswissenschaft, etwa durch Denkmäler, Gedenkveranstaltungen, Ausstellungen oder Filme.
+Öffentlicher Umgang mit Geschichte außerhalb der Geschichtswissenschaft, etwa durch Denkmäler, Gedenkveranstaltungen, Ausstellungen oder Filme.
 
 **Weites Begriffsverständnis**
 
-Er versteht Erinnerungskultur als „einen formalen Oberbegriff für alle denkbaren Formen der bewussten Erinnerung an historische Ereignisse, Persönlichkeiten und Prozesse“.
+Erinnerungskultur als „einen formalen Oberbegriff für alle denkbaren Formen der bewussten Erinnerung an historische Ereignisse, Persönlichkeiten und Prozesse“.
 
-Diese Erinnerung kann laut Cornelißen **ästhetischer, politischer oder kognitiver Natur** sein.
+Diese Erinnerung kann **ästhetischer, politischer oder kognitiver Natur** sein.
 
-<small>Quelle: Christoph Cornelißen, „Erinnerungskulturen“ (2012)</small>
+********************************************************************************
 
----
+{{1}}
+********************************************************************************
 
-### Welche Merkmale sind für Cornelißens Definition entscheidend?
+**Zentrale Merkmale der Erinnerungskultur**
 
 | **Merkmal** | **Erläuterung** |
 |---|---|
-| **Vielfalt der Formen** | Erinnerung findet durch Texte, Bilder, Denkmäler, Gebäude, Rituale oder wissenschaftliche Darstellungen statt. |
-| **Unterschiedliche Träger** | Individuen, gesellschaftliche Gruppen und Nationen gestalten Erinnerung. |
-| **Gegenwartsbezug** | Vergangenheit wird erinnert, um gegenwärtige Bedürfnisse zu erfüllen und Identität zu stiften. |
+| **Vielfalt der Formen** | Texte, Bilder, Denkmäler, Rituale oder wissenschaftliche Darstellungen |
+| **Unterschiedliche Träger** | Individuen, gesellschaftliche Gruppen und Nationen |
+| **Gegenwartsbezug** | Erinnerung orientiert sich an gegenwärtigen Bedürfnissen und kann Identität stiften |
+
+********************************************************************************
 
 <small>Quelle: Christoph Cornelißen, „Erinnerungskulturen“ (2012)</small>
 
