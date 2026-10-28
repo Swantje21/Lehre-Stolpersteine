@@ -17,6 +17,8 @@ Ein Aufbauseminar zur Geschichte der Neuzeit (WS 2026/27)
 
 **Zeit und Raum:** Do 10:15 - 11:45, UB Kiel, DLL
 
+---
+
 **Inhalt:**
 
 Daten sind zu einer wichtigen Grundlage historischer Forschung geworden. Digitale Datensammlungen eröffnen neue Möglichkeiten, historische Entwicklungen zu analysieren und sichtbar zu machen. Mit der wachsenden Verfügbarkeit offener Datenbestände entstehen neue digitale Quellenräume, die historische Forschung und Geschichtsvermittlung erweitern. Zugleich werfen sie Fragen nach Herkunft, Qualität, Vollständigkeit und Nachnutzbarkeit von Daten auf.
@@ -57,6 +59,8 @@ Das Seminar widmet sich der Recherche und Analyse historisch relevanter Datensä
 * Visualisierung und Präsentation der Forschungsergebnisse
 * Erfahrungen in den Berufs- und Praxisfeldern Wissensvermittlung eigenständiges und selbstorganisiertes Arbeiten
 
+---
+
 **Weiterführende Links und Literatur:**
 
 * Link zum **Stolpersteine Stadt Kiel:** https://www.kiel.de/de/kultur_freizeit/stadtgeschichte/stolpersteine.php
@@ -75,7 +79,6 @@ Details folgen im Laufe des Semesters.
 2. Weil es sich um eine Forschungswerkstatt handelt, erwarten wir Eigenengagement und Eigeninitiative für das Thema: Sie werden an verschiedenen Stellen selbst recherchieren, arbeiten und experementieren müssen. Im Gegenzug unterstützen wir Sie, wo wir können.
 3. Es kann sein, dass Sie in Ihren Biographien wenig oder gar keine Informationen finden: Das ist auch ein Ergebnis, dessen Dokumentation einen Wert hat!
 4. Der Seminarplan ist "im Fluss".
-
 
 ## Sitzung 1
 
@@ -119,9 +122,11 @@ Was erzählt uns ein Stolperstein?
 
 {{2-3}}
 ********************************************************************************
+
 <!-- style="font-size: 25px;" -->
 Die DFG schreibt hierzu:
 
+<!-- style="font-size: 25px;" -->
 > „Zu Forschungsdaten zählen u. a. Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten oder Beobachtungsdaten, methodische Testverfahren sowie Fragebögen. Korpora und Simulationen können ebenfalls zentrale Ergebnisse wissenschaftlicher Forschung darstellen und werden daher ebenfalls unter den Begriff Forschungsdaten gefasst. Da Forschungsdaten in einigen Fachbereichen auf der Analyse von Objekten basieren (z. B. Gewebe-, Material-, Gesteins-, Wasser- und Bodenproben, Prüfkörper, Installationen, Artefakte und Kunstgegenstände), muss der Umgang mit diesen ebenso sorgfältig sein und eine fachlich adäquate Nachnutzungsmöglichkeit, wann immer sinnvoll und möglich, mitgedacht werden. Ähnliches gilt, wenn Software für die Entstehung oder Verarbeitung von Forschungsdaten erforderlich ist.“
 >
 > (**DFG 2021**)
@@ -131,7 +136,7 @@ Die DFG schreibt hierzu:
 {{3}}
 ***********************************************************
 
-![Bild](images/forschungsdatenBSP.png) <!-- width="350px" align="right" -->
+![Beispiele Forschungsdaten](images/forschungsdatenBSP.png) <!-- width="350px" align="right" -->
 
 <!-- style="font-size: 25px;" -->
 **Beispiele für Forschungsdaten**:
@@ -197,6 +202,8 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel:
 * [Christop Cornelißen](https://docupedia.de/zg/cornelissen_erinnerungskulturen_v2_de_2012)
 * [Beate Meyer](https://www.stolpersteine-hamburg.de/?MAIN_ID=6&RECORD_ID=561)
 
+<br>
+
 Wählen Sie anschließend einen Kieler Stolperstein aus (falls möglich, in Ihrer Nähe oder mit Bezug) und recherchieren Sie die dazu verfügbaren biografischen Informationen.
 
 Bearbeiten Sie folgende Fragen:
@@ -206,3 +213,164 @@ Bearbeiten Sie folgende Fragen:
 3. In welchen Formen liegen die Informationen vor, die Sie für Ihre Recherche nutzen (z. B. historische Dokumente, Fotografien, Zeitzeug:innen, Videoaufzeichnungen, ...)? Welche dieser Materialien können als Forschungsdaten dienen, und welche Informationen lassen sich daraus gewinnen?
 
 Halten Sie Ihre Überlegungen in Stichpunkten fest (max. eine Seite). Bringen Sie Ihre Ergebnisse zur nächsten Sitzung mit.
+
+## Sitzung 2
+
+### Open Data?
+
+**Was bedeutet es, wenn Daten "offen" sind?**
+---
+
+---
+
+<br>
+
+oder anders:
+
+>**Welche der folgenden Aussagen treffen auf _Open Data_ zu?**
+>
+>[[X]] Die Daten sind kostenlos zugänglich.
+>[[ ]] Die Daten dürfen ausschließlich für wissenschaftliche Zwecke genutzt werden.
+>[[X]] Die Daten dürfen unter bestimmten Bedingungen weiterverwendet werden.
+>[[X]] Die Nutzungsbedingungen erlauben eine Weiterverwendung, auch durch Dritte.
+>[[ ]] Alle im Internet verfügbaren Daten sind Open Data.
+>
+
+### Open Data Definition
+
+{{0-1}}
+**************
+
+>Bitkom (2017): „Open Data Manifest“, derived from Jesper Zedlitz (2025): "Open Data in Schleswig-Holstein" 2025
+>
+> -- **Open Data sind ungefilterte, maschinenlesbare elektronische Daten, die jedem öffentlich, zweckfrei und unverbindlich zur Verfügung gestellt werden.**
+
+**************
+
+{{1}}
+**************
+
+Open Data...
+--- 
+
+...sind Daten, die **grundsätzlich für alle zugänglich** sind und **unter solchen Bedingungen** bereitgestellt werden, die eine **freie Weiterverwendung** ermöglichen.
+
+---
+
+Je nach **Lizenz** können offene Daten:
+
+- heruntergeladen und gespeichert,
+- analysiert und ausgewertet,
+- verändert und mit anderen Daten kombiniert,
+- veröffentlicht und weitergegeben werden.
+
+Beispiele für mögliche *Bedingungen*:
+
+- Pflicht, die Quelle zu nennen ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+- unter den selben Bedingungen veröffentlichen. ([CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/))
+
+**************
+
+{{2}}
+**************
+
+Open Data bedeutet nicht,...
+---
+
+- dass Daten automatisch vertrauenswürdig sind,
+- dass Daten fehlerfrei oder vollständig sind,
+- dass sie ohne technische Aufbereitung verwendbar sind,
+- dass keine Lizenzbedingungen zu beachten sind,
+- dass alle enthaltenen Informationen automatisch uneingeschränkt veröffentlicht werden dürfen.
+
+**************
+
+### Fünf-Sterne-Modell zu offenen Daten
+
+Um den **Grad der Offenheit** von Datensätzen zu klassifizieren, wird auf das "Fünf-Sterne-Modell" zurückgegriffen:
+
+Das Fünf-Sterne-Modell ist kaskadierend: Den zweiten Stern bekommen Datensätze nur, wenn bereits die Voraussetzungen für den ersten Stern erfüllt. Voraussetzung für den ersten Stern ist die **offene Lizenz**.
+
+| Sterne | Bedingungen |
+|---|---|
+|  | Keine offene Lizenz |
+| ⭐ | Daten im Web (Dateiformat egal) mit offener Lizenz |
+| ⭐⭐ | Verfügbar als maschinenlesbare strukturierte Daten (z. B. Excel statt eines gescannten Bildes einer Tabelle) |
+| ⭐⭐⭐ | Daten in strukturiertem, nicht proprietärem Format (z.B. CSV statt Excel) |
+| ⭐⭐⭐⭐ | All das und noch dazu: Verwendung von eindeutigen URLs, so dass Datensätze verlinkt werden können |
+| ⭐⭐⭐⭐⭐ | All das und noch dazu: Verknüpfung der Daten mit denen anderer, um einen Kontext zu schaffen |
+
+---
+
+
+Weiterlesen:
+---
+- https://opendatahandbook.org/guide/en/what-is-open-data/
+- https://www.w3.org/DesignIssues/LinkedData.html 
+
+
+### Offene Lizenzen
+
+{{0-1}}
+**************
+
+Die Wahl der **Lizenz** entscheidet darüber, wie offen und frei nachnutzbar Daten tatsächlich sind.
+
+Eine klare und verständliche Lizenz schafft **Rechtssicherheit** sowohl für Datenbereitstellende als auch für Datennutzende.
+
+Es existieren verschiedene Lizenzsysteme. Darunter sind die [Creative Commons (CC) Lizenzen](https://creativecommons.org/cc-licenses/) die weltweit etabliertesten.
+
+<iframe src="https://creativecommons.org/cc-licenses/" style="border:1px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+---
+
+**************
+
+{{1}}
+**************
+
+Welche der [Creative Commons (CC) Lizenzen](https://creativecommons.org/cc-licenses/) gelten als **offene Lizenzen**?
+
+**************
+
+{{2}}
+**************
+
+>[!IMPORTANT] Nur CC-0, CC-BY und CC-BY-SA gelten als offene Lizenzen!
+>
+>Eine Übersicht über komforme Lizenzen findet sich z. B. hier: https://opendefinition.org/licenses/ 
+
+**************
+
+### Open Data finden und bewerten
+
+{{0-1}}
+**************
+Wo finden wir Offene Daten?
+
+- kurzes Brainstorming
+
+<iframe src="https://zumpad.zum.de/p/opendata-finden " style="border:1px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+---
+
+{{1-2}}
+**************
+<iframe src="https://opendata.schleswig-holstein.de/dataset" style="border:1px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
+{{2}}
+**************
+
+Suchen und bewerten 
+---
+
+Findet folgende Resourcen und bewertet, ob es sich dabei um Open Data handelt:
+
+1. Stolpersteine als Erinnerungsmarker und Lerngelegenheiten im europäischen urbanen Strassenbild
+https://zenodo.org/records/17609747
+
+2. [Schriftgut.SH](https://schriftgut.sh/)
+
+3. Stolpersteine in Kiel
+
