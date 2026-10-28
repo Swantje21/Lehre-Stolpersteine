@@ -216,6 +216,109 @@ Halten Sie Ihre Überlegungen in Stichpunkten fest (max. eine Seite). Bringen Si
 
 ## Sitzung 2
 
+## Erinnerungskulturen
+
+### Wie definiert Christoph Cornelißen Erinnerungskultur?
+
+**Enges Begriffsverständnis**
+
+Im engeren Sinne bezeichnet Erinnerungskultur den öffentlichen Umgang mit Geschichte außerhalb der Geschichtswissenschaft, etwa durch Denkmäler, Gedenkveranstaltungen, Ausstellungen oder Filme.
+
+**Weites Begriffsverständnis**
+
+Er versteht Erinnerungskultur als „einen formalen Oberbegriff für alle denkbaren Formen der bewussten Erinnerung an historische Ereignisse, Persönlichkeiten und Prozesse“.
+
+Diese Erinnerung kann laut Cornelißen **ästhetischer, politischer oder kognitiver Natur** sein.
+
+<small>Quelle: Christoph Cornelißen, „Erinnerungskulturen“ (2012)</small>
+
+---
+
+### Welche Merkmale sind für Cornelißens Definition entscheidend?
+
+| **Merkmal** | **Erläuterung** |
+|---|---|
+| **Vielfalt der Formen** | Erinnerung findet durch Texte, Bilder, Denkmäler, Gebäude, Rituale oder wissenschaftliche Darstellungen statt. |
+| **Unterschiedliche Träger** | Individuen, gesellschaftliche Gruppen und Nationen gestalten Erinnerung. |
+| **Gegenwartsbezug** | Vergangenheit wird erinnert, um gegenwärtige Bedürfnisse zu erfüllen und Identität zu stiften. |
+
+<small>Quelle: Christoph Cornelißen, „Erinnerungskulturen“ (2012)</small>
+
+---
+
+### Maurice Halbwachs – Das kollektive Gedächtnis
+
+**Was versteht man unter dem kollektiven Gedächtnis?**
+
+- Erinnerungen sind nicht ausschließlich individuell, sondern entstehen innerhalb **sozialer Bezugsrahmen**.
+
+- Soziale Gruppen prägen, **was erinnert wird und wie Erinnerungen rekonstruiert werden**.
+
+- Das kollektive Gedächtnis ist an die **Erfahrungen, Perspektiven und Bedürfnisse** der jeweiligen Gruppe gebunden.
+
+- Unterschiedliche Gruppen können deshalb **unterschiedliche Erinnerungen an dieselbe Vergangenheit** entwickeln.
+
+<small>Quelle: Christoph Cornelißen, „Erinnerungskulturen“ (2012)</small>
+
+---
+
+### Jan und Aleida Assmann – Kommunikatives und kulturelles Gedächtnis
+
+| **Kommunikatives Gedächtnis** | **Kulturelles Gedächtnis** |
+|---|---|
+| Persönliche Erfahrungen und mündliche Überlieferung | Überlieferung durch Texte, Bilder und Rituale |
+| Gesellschaftliches „Kurzzeitgedächtnis“ (ca. drei Generationen) | Langfristiges, generationenübergreifendes Gedächtnis |
+| Erinnerung innerhalb einer Erfahrungs- und Erzählgemeinschaft | Vermittelt und stabilisiert das Selbstbild einer Gesellschaft |
+
+<small>Quelle: Christoph Cornelißen, „Erinnerungskulturen“ (2012)</small>
+
+---
+
+### Stolpersteine als Teil gesellschaftlicher Erinnerungskultur
+
+- **Öffentliches Gedenken:** Stolpersteine erinnern im alltäglichen Lebensumfeld an Menschen, die während der NS-Zeit verfolgt und ermordet wurden.
+
+- **Gesellschaftliche Gestaltung:** Angehörige, Initiativen und lokale Gemeinschaften beteiligen sich daran, individuelle Lebensgeschichten zu erforschen und sichtbar zu machen.
+
+- **Gegenwartsbezug:** Die Stolpersteine zeigen, wie sich die heutige Gesellschaft mit der NS-Vergangenheit auseinandersetzt und welche Bedeutung sie dem Gedenken beimisst.
+
+- **Weitergabe von Erinnerung:** Als dauerhafte Erinnerungszeichen tragen Stolpersteine dazu bei, das Wissen über individuelle Verfolgungsschicksale über Generationen hinweg zu bewahren.
+
+---
+
+
+### Gruppenarbeit: Stolpersteine – Biografien und Erinnerung
+
+**25 Minuten Bearbeitung / ca. 5 Minuten Vorstellung pro Gruppe**
+
+Stellen Sie sich in Gruppen von drei bis vier Personen Ihre ausgewählten Stolpersteine vor. Vergleichen Sie anschließend:
+
+1. **Biografische Informationen:** Welche Informationen konnten Sie rekonstruieren? Wo zeigen sich Lücken oder Unsicherheiten?
+
+2. **Quellen und Erinnerungskultur:** Welche Quellen und digitalen Materialien standen zur Verfügung? Was erfahren Sie darüber, wie heute an die Personen erinnert wird?
+
+---
+
+### Von der Biografie zu Forschungsdaten
+
+Überlegen Sie anhand Ihres ausgewählten Stolpersteins, wie sich Ihre Rechercheergebnisse in **strukturierte Forschungsdaten** überführen lassen.
+
+**Beispielsweise:**
+
+| **Datenfeld** | **Beispiel** |
+|---|---|
+| Name | Vor- und Nachname |
+| Geburtsjahr | 1898 |
+| Historische Adresse | Straße und Hausnummer |
+| Verfolgungsschicksal | Freitext oder Kategorie |
+| Stolperstein-Standort | Heutige Adresse |
+| Verlegedatum | Falls bekannt |
+| Quellen | Archivsignatur, Literatur, Webseite |
+| Unsicherheiten | Fehlende oder widersprüchliche Angaben |
+
+---
+
+
 ### Open Data?
 
 **Was bedeutet es, wenn Daten "offen" sind?**
