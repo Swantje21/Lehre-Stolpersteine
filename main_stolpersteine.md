@@ -216,8 +216,6 @@ Halten Sie Ihre Überlegungen in Stichpunkten fest (max. eine Seite). Bringen Si
 
 ## Sitzung 2
 
-## Erinnerungskulturen
-
 ### Wie definiert Christoph Cornelißen Erinnerungskultur?
 
 **Enges Begriffsverständnis**
@@ -246,29 +244,19 @@ Diese Erinnerung kann laut Cornelißen **ästhetischer, politischer oder kogniti
 
 ---
 
-### Maurice Halbwachs – Das kollektive Gedächtnis
+### Kollektives Gedächtnis – Halbwachs und Assmann
 
-**Was versteht man unter dem kollektiven Gedächtnis?**
+**Maurice Halbwachs: Kollektives Gedächtnis**
 
-- Erinnerungen sind nicht ausschließlich individuell, sondern entstehen innerhalb **sozialer Bezugsrahmen**.
+- Erinnerungen entstehen innerhalb **sozialer Gruppen** und werden durch deren Erfahrungen und gegenwärtige Perspektiven geprägt.
+- Unterschiedliche Gruppen können dieselbe Vergangenheit unterschiedlich erinnern.
 
-- Soziale Gruppen prägen, **was erinnert wird und wie Erinnerungen rekonstruiert werden**.
-
-- Das kollektive Gedächtnis ist an die **Erfahrungen, Perspektiven und Bedürfnisse** der jeweiligen Gruppe gebunden.
-
-- Unterschiedliche Gruppen können deshalb **unterschiedliche Erinnerungen an dieselbe Vergangenheit** entwickeln.
-
-<small>Quelle: Christoph Cornelißen, „Erinnerungskulturen“ (2012)</small>
-
----
-
-### Jan und Aleida Assmann – Kommunikatives und kulturelles Gedächtnis
+**Jan und Aleida Assmann: Zwei Formen des Gedächtnisses**
 
 | **Kommunikatives Gedächtnis** | **Kulturelles Gedächtnis** |
 |---|---|
-| Persönliche Erfahrungen und mündliche Überlieferung | Überlieferung durch Texte, Bilder und Rituale |
-| Gesellschaftliches „Kurzzeitgedächtnis“ (ca. drei Generationen) | Langfristiges, generationenübergreifendes Gedächtnis |
-| Erinnerung innerhalb einer Erfahrungs- und Erzählgemeinschaft | Vermittelt und stabilisiert das Selbstbild einer Gesellschaft |
+| Persönliche Erfahrungen und mündliche Überlieferung | Erinnerung durch Texte, Bilder und Rituale |
+| Zeitlich begrenzt (ca. drei Generationen) | Langfristig und generationenübergreifend |
 
 <small>Quelle: Christoph Cornelißen, „Erinnerungskulturen“ (2012)</small>
 
@@ -285,7 +273,6 @@ Diese Erinnerung kann laut Cornelißen **ästhetischer, politischer oder kogniti
 - **Weitergabe von Erinnerung:** Als dauerhafte Erinnerungszeichen tragen Stolpersteine dazu bei, das Wissen über individuelle Verfolgungsschicksale über Generationen hinweg zu bewahren.
 
 ---
-
 
 ### Gruppenarbeit: Stolpersteine – Biografien und Erinnerung
 
