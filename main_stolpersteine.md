@@ -216,15 +216,26 @@ Halten Sie Ihre Überlegungen in Stichpunkten fest (max. eine Seite). Bringen Si
 
 ## Sitzung 2
 
-
 ### Wie definiert Christoph Cornelißen Erinnerungskultur?
 
-{{0-1}}
+{{0}}
+********************************************************************************
+
+**Was verstehen Sie unter Erinnerungskultur?**
+
+********************************************************************************
+
+{{1-2}}
 ********************************************************************************
 
 **Enges Begriffsverständnis**
 
 Öffentlicher Umgang mit Geschichte außerhalb der Geschichtswissenschaft, etwa durch Denkmäler, Gedenkveranstaltungen, Ausstellungen oder Filme.
+
+********************************************************************************
+
+{{2-3}}
+********************************************************************************
 
 **Weites Begriffsverständnis**
 
@@ -234,7 +245,7 @@ Diese Erinnerung kann **ästhetischer, politischer oder kognitiver Natur** sein.
 
 ********************************************************************************
 
-{{1}}
+{{3}}
 ********************************************************************************
 
 **Zentrale Merkmale der Erinnerungskultur**
@@ -250,6 +261,7 @@ Diese Erinnerung kann **ästhetischer, politischer oder kognitiver Natur** sein.
 <small>Quelle: Christoph Cornelißen, „Erinnerungskulturen“ (2012)</small>
 
 ---
+
 
 ### Kollektives Gedächtnis – Halbwachs und Assmann
 
