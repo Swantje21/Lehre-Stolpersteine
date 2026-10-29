@@ -346,13 +346,13 @@ oder anders:
 {{0-1}}
 **************
 
->Bitkom (2017): „Open Data Manifest“, derived from Jesper Zedlitz (2025): "Open Data in Schleswig-Holstein" 2025
+>Bitkom (2017): „Open Data Manifest“, derived from Jesper Zedlitz (2025): "Open Data in Schleswig-Holstein"
 >
 > -- **Open Data sind ungefilterte, maschinenlesbare elektronische Daten, die jedem öffentlich, zweckfrei und unverbindlich zur Verfügung gestellt werden.**
 
 **************
 
-{{1}}
+{{1-2}}
 **************
 
 Open Data...
@@ -451,7 +451,7 @@ Welche der [Creative Commons (CC) Lizenzen](https://creativecommons.org/cc-licen
 
 {{0-1}}
 **************
-Wo finden wir Offene Daten?
+Wo finden wir offene Daten?
 
 - kurzes Brainstorming
 
@@ -479,8 +479,9 @@ Findet folgende Ressourcen und bewertet, ob es sich bei den jeweiligen Ressource
 3. Vornehmheit und Tüchtigkeit. Dem deutschen Volke zur Einkehr, Havenstein, Martin 
 
 4. **Einen Datensatz zu Stolpersteinen im Stadtgebiet Kiel**
-   
 
+***************
+   
 ### Aufgabe zur nächsten Woche
 
 Bitte lesen Sie zur nächsten Woche die folgenden Artikel (im Olat-Ordner):
