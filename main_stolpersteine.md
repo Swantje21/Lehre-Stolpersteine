@@ -261,7 +261,7 @@ Diese Erinnerung kann **ästhetischer, politischer oder kognitiver Natur** sein.
 
 **Maurice Halbwachs: Kollektives Gedächtnis**
 
-- Erinnerungen entstehen innerhalb **sozialer Gruppen** und werden durch deren Erfahrungen und gegenwärtige Perspektiven geprägt.
+- Erinnerungen entstehen innerhalb sozialer Gruppen und werden durch deren Erfahrungen und gegenwärtige Perspektiven geprägt.
 - Unterschiedliche Gruppen können dieselbe Vergangenheit unterschiedlich erinnern.
 
 **Jan und Aleida Assmann: Zwei Formen des Gedächtnisses**
