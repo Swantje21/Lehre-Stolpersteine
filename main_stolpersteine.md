@@ -477,4 +477,13 @@ Findet folgende Ressourcen und bewertet, ob es sich bei den jeweiligen Ressource
 3. Vornehmheit und Tüchtigkeit. Dem deutschen Volke zur Einkehr, Havenstein, Martin 
 
 4. **Einen Datensatz zu Stolpersteinen im Stadtgebiet Kiel**
+   
+
+### Aufgabe zur nächsten Woche
+
+Bitte lesen Sie zur nächsten Woche die folgenden Artikel (im Olat-Ordner):
+
+- Frese Matthias, Weidner Matthias (Hg.): Verhandelte Erinnerungen. Der Umgang mit Ehrungen, Denkmälern und Gedenkorten nach 1945, Einleitung S. 7-21.
+- Schrader, Ulrike: Die „Stolpersteine“ oder: Von der Leichtigkeit des Gedenkens - Einige kritische Anmerkungen, S. 237-253.
+
 
