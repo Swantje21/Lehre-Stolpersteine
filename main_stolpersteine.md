@@ -216,14 +216,8 @@ Halten Sie Ihre Überlegungen in Stichpunkten fest (max. eine Seite). Bringen Si
 
 ## Sitzung 2
 
+
 ### Wie definiert Christoph Cornelißen Erinnerungskultur?
-
-{{0}}
-********************************************************************************
-
-**Was verstehen Sie unter Erinnerungskultur?**
-
-********************************************************************************
 
 {{1-2}}
 ********************************************************************************
