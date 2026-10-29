@@ -307,8 +307,10 @@ Stellen Sie sich in Gruppen von drei bis vier Personen Ihre ausgewählten Stolpe
 
 | **Datenfeld** | **Beispiel** |
 |---|---|
-| Name | Vor- und Nachname |
-| Geburtsjahr | 1898 |
+| Vorname | Heinrich |
+| Nachname | Theede |
+| Geburtsdatum | 1887 |
+| Todesdatum | Mai 1944 |
 | Historische Adresse | Straße und Hausnummer |
 | Verfolgungsschicksal | Freitext oder Kategorie |
 | Stolperstein-Standort | Heutige Adresse |
