@@ -459,10 +459,13 @@ Wo finden wir offene Daten?
 
 ---
 
+**************
+
 {{1-2}}
 **************
 <iframe src="https://opendata.schleswig-holstein.de/dataset" style="border:1px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
+*******************
 
 {{2}}
 **************
@@ -481,7 +484,7 @@ Findet folgende Ressourcen und bewertet, ob es sich bei den jeweiligen Ressource
 4. **Einen Datensatz zu Stolpersteinen im Stadtgebiet Kiel**
 
 ***************
-   
+
 ### Aufgabe zur nächsten Woche
 
 Bitte lesen Sie zur nächsten Woche die folgenden Artikel (im Olat-Ordner):
