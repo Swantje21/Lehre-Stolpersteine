@@ -216,6 +216,111 @@ Halten Sie Ihre Überlegungen in Stichpunkten fest (max. eine Seite). Bringen Si
 
 ## Sitzung 2
 
+
+### Wie definiert Christoph Cornelißen Erinnerungskultur?
+
+{{1-2}}
+********************************************************************************
+
+**Enges Begriffsverständnis**
+
+Öffentlicher Umgang mit Geschichte außerhalb der Geschichtswissenschaft, etwa durch Denkmäler, Gedenkveranstaltungen, Ausstellungen oder Filme.
+
+********************************************************************************
+
+{{2-3}}
+********************************************************************************
+
+**Weites Begriffsverständnis**
+
+Erinnerungskultur als „einen formalen Oberbegriff für alle denkbaren Formen der bewussten Erinnerung an historische Ereignisse, Persönlichkeiten und Prozesse“.
+
+Diese Erinnerung kann **ästhetischer, politischer oder kognitiver Natur** sein.
+
+********************************************************************************
+
+{{3}}
+********************************************************************************
+
+**Zentrale Merkmale der Erinnerungskultur**
+
+| **Merkmal** | **Erläuterung** |
+|---|---|
+| **Vielfalt der Formen** | Texte, Bilder, Denkmäler, Rituale oder wissenschaftliche Darstellungen |
+| **Unterschiedliche Träger** | Individuen, gesellschaftliche Gruppen und Nationen |
+| **Gegenwartsbezug** | Erinnerung orientiert sich an gegenwärtigen Bedürfnissen und kann Identität stiften |
+
+********************************************************************************
+
+<small>Quelle: Christoph Cornelißen, „Erinnerungskulturen“ (2012)</small>
+
+---
+
+
+### Kollektives Gedächtnis – Halbwachs und Assmann
+
+**Maurice Halbwachs: Kollektives Gedächtnis**
+
+- Erinnerungen entstehen innerhalb sozialer Gruppen und werden durch deren Erfahrungen und gegenwärtige Perspektiven geprägt.
+- Unterschiedliche Gruppen können dieselbe Vergangenheit unterschiedlich erinnern.
+
+**Jan und Aleida Assmann: Zwei Formen des Gedächtnisses**
+
+| **Kommunikatives Gedächtnis** | **Kulturelles Gedächtnis** |
+|---|---|
+| Persönliche Erfahrungen und mündliche Überlieferung | Erinnerung durch Texte, Bilder und Rituale |
+| Zeitlich begrenzt (ca. drei Generationen) | Langfristig und generationenübergreifend |
+
+<small>Quelle: Christoph Cornelißen, „Erinnerungskulturen“ (2012)</small>
+
+---
+
+### Stolpersteine als Teil gesellschaftlicher Erinnerungskultur
+
+- **Öffentliches Gedenken:** Stolpersteine erinnern im alltäglichen Lebensumfeld an Menschen, die während der NS-Zeit verfolgt und ermordet wurden.
+
+- **Gesellschaftliche Gestaltung:** Angehörige, Initiativen und lokale Gemeinschaften beteiligen sich daran, individuelle Lebensgeschichten zu erforschen und sichtbar zu machen.
+
+- **Gegenwartsbezug:** Die Stolpersteine zeigen, wie sich die heutige Gesellschaft mit der NS-Vergangenheit auseinandersetzt und welche Bedeutung sie dem Gedenken beimisst.
+
+- **Weitergabe von Erinnerung:** Als dauerhafte Erinnerungszeichen tragen Stolpersteine dazu bei, das Wissen über individuelle Verfolgungsschicksale über Generationen hinweg zu bewahren.
+
+---
+
+### Gruppenarbeit: Stolpersteine – Biografien und Erinnerung
+
+**25 Minuten Bearbeitung / ca. 5 Minuten Vorstellung pro Gruppe**
+
+Stellen Sie sich in Gruppen von drei bis vier Personen Ihre ausgewählten Stolpersteine vor. Vergleichen Sie anschließend:
+
+1. **Biografische Informationen:** Welche Informationen konnten Sie rekonstruieren? Wo zeigen sich Lücken oder Unsicherheiten?
+
+2. **Quellen und Erinnerungskultur:** Welche Quellen und digitalen Materialien standen zur Verfügung? Was erfahren Sie darüber, wie heute an die Personen erinnert wird?
+
+---
+
+### Von der Biografie zu Forschungsdaten
+
+Überlegen Sie anhand Ihres ausgewählten Stolpersteins, wie sich Ihre Rechercheergebnisse in **strukturierte Forschungsdaten** überführen lassen.
+
+**Beispielsweise:**
+
+| **Datenfeld** | **Beispiel** |
+|---|---|
+| Vorname | Heinrich |
+| Nachname | Theede |
+| Geburtsdatum | 1887 |
+| Todesdatum | Mai 1944 |
+| Historische Adresse | Straße und Hausnummer |
+| Verfolgungsschicksal | Freitext oder Kategorie |
+| Stolperstein-Standort | Heutige Adresse |
+| Verlegedatum | Falls bekannt |
+| Quellen | Archivsignatur, Literatur, Webseite |
+| Unsicherheiten | Fehlende oder widersprüchliche Angaben |
+
+---
+
+
 ### Open Data?
 
 **Was bedeutet es, wenn Daten "offen" sind?**
@@ -241,13 +346,13 @@ oder anders:
 {{0-1}}
 **************
 
->Bitkom (2017): „Open Data Manifest“, derived from Jesper Zedlitz (2025): "Open Data in Schleswig-Holstein" 2025
+>Bitkom (2017): „Open Data Manifest“, derived from Jesper Zedlitz (2025): "Open Data in Schleswig-Holstein"
 >
 > -- **Open Data sind ungefilterte, maschinenlesbare elektronische Daten, die jedem öffentlich, zweckfrei und unverbindlich zur Verfügung gestellt werden.**
 
 **************
 
-{{1}}
+{{1-2}}
 **************
 
 Open Data...
@@ -346,7 +451,7 @@ Welche der [Creative Commons (CC) Lizenzen](https://creativecommons.org/cc-licen
 
 {{0-1}}
 **************
-Wo finden wir Offene Daten?
+Wo finden wir offene Daten?
 
 - kurzes Brainstorming
 
@@ -354,10 +459,13 @@ Wo finden wir Offene Daten?
 
 ---
 
+**************
+
 {{1-2}}
 **************
 <iframe src="https://opendata.schleswig-holstein.de/dataset" style="border:1px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
+*******************
 
 {{2}}
 **************
@@ -365,14 +473,25 @@ Wo finden wir Offene Daten?
 Suchen und bewerten 
 ---
 
-Findet folgende Resourcen und bewertet, ob es sich dabei um Open Data handelt:
+Findet folgende Ressourcen und bewertet, ob es sich bei den jeweiligen Ressourcen um Open Data handelt:
 
-1. Stolpersteine als Erinnerungsmarker und Lerngelegenheiten im europäischen urbanen Strassenbild
-https://zenodo.org/records/17609747
+1. Stolpersteine als Erinnerungsmarker und Lerngelegenheiten im europäischen urbanen Strassenbild, Christian Mathis
 
-2. [Schriftgut.SH](https://schriftgut.sh/)
+2. Luftbild mit Blick über die durch Bomben nördlich vom Dreiecksplatz zerstörten, von der Holtenauer Straße links und rechts abgehenden Straßenzüge.
 
-3. Stolpersteine in Kiel
+3. Vornehmheit und Tüchtigkeit. Dem deutschen Volke zur Einkehr, Havenstein, Martin 
+
+4. **Einen Datensatz zu Stolpersteinen im Stadtgebiet Kiel**
+
+***************
+
+### Aufgabe zur nächsten Woche
+
+Bitte lesen Sie zur nächsten Woche die folgenden Artikel (im Olat-Ordner):
+
+- Frese Matthias, Weidner Matthias (Hg.): Verhandelte Erinnerungen. Der Umgang mit Ehrungen, Denkmälern und Gedenkorten nach 1945, Einleitung S. 7-21.
+- Schrader, Ulrike: Die „Stolpersteine“ oder: Von der Leichtigkeit des Gedenkens - Einige kritische Anmerkungen, S. 237-253.
+
 
 ### Data Assessment: Stolpersteine Kiel
 
