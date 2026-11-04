@@ -620,14 +620,11 @@ Füllen Sie die Checkliste soweit möglich anhand der verfügbaren Informationen
 | **10. Repräsentation und Perspektive** | Welche Personen, Orte und Aspekte der Geschichte werden sichtbar? Welche Informationen oder Perspektiven könnten fehlen? Was sollte bei der Interpretation berücksichtigt werden? |
 | **11. Eignung für eine Fragestellung** | Welche historischen oder räumlichen Fragen könnten Sie mit den Daten untersuchen? Welche zusätzlichen Daten oder Aufbereitungsschritte wären dafür nötig? |
 
-### Quellenkritik: Der physische Stolperstein als historische Quelle
+### Quellenkritik: Der Stolperstein als Erinnerungszeichen
 
 | Kriterium | Leitfragen |
 |---|---|
-| **1. Herkunft und Urheberschaft** | Wer hat den Stolperstein geschaffen und verlegt? Wer hat die Verlegung veranlasst? |
-| **2. Entstehungskontext und Zweck** | Wann und aus welchem Anlass wurde der Stolperstein verlegt? Welche Absicht ist mit diesem Erinnerungszeichen verbunden? |
-| **3. Materialität und Gestaltung** | Wie ist der Stolperstein gestaltet? Welche Bedeutung haben Material, Größe, Inschrift und die Einbettung in den öffentlichen Raum? |
-| **4. Standort und räumlicher Bezug** | Warum befindet sich der Stolperstein an diesem Ort? Welche Beziehung besteht zwischen dem Standort und der Biografie der Person? |
-| **5. Überprüfbarkeit und Quellenlage** | Auf welchen historischen Quellen beruhen die Angaben des Stolpersteins? Lassen sie sich überprüfen? Gibt es Unklarheiten oder Widersprüche? |
-| **6. Rezeption und Erinnerungskultur** | Wie wird der Stolperstein im öffentlichen Raum wahrgenommen? Welche Formen des Erinnerns und Gedenkens ermöglicht er? |
-| **7. Historischer Erkenntniswert** | Was erfahren wir durch den Stolperstein über den heutigen Umgang mit der NS-Vergangenheit? Welche Grenzen besitzt er als Quelle für die historische Biografie der erinnerten Person? |
+| **1. Entstehungskontext und Zweck** | Welche Absicht steht hinter der Verlegung eines Stolpersteins? Welche gesellschaftlichen Akteure sind an dieser Form des Gedenkens beteiligt? |
+| **2. Materialität und Gestaltung** | Welche Bedeutung haben Material, Größe, Gestaltung und die Platzierung im öffentlichen Raum für die Wirkung des Stolpersteins? |
+| **3. Rezeption und Erinnerungskultur** | Wie wird der Stolperstein im öffentlichen Raum wahrgenommen? Welche unterschiedlichen Haltungen gegenüber dieser Form des Gedenkens gibt es? |
+| **4. Historischer Erkenntniswert** | Was erfahren wir durch den Stolperstein über den heutigen Umgang mit der NS-Vergangenheit? Welche Grenzen hat er als historische Quelle? |
