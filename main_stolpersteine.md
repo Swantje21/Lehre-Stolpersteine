@@ -556,7 +556,6 @@ Kurze Widerholung:
 [[X]] Die jeweiligen Lizenzbedingungen müssen eingehalten werden.
 [[ ]] Open Data darf nur von öffentlichen Einrichtungen verwendet werden.
 [[ ]] Die Daten müssen bei jeder Verwendung erneut beantragt werden.
-[[X]] Die jeweiligen Lizenzbedingungen müssen eingehalten werden.
 [[X]] Die Datenqualität muss für jeden Datensatz geprüft werden.
 
 ### Open Data finden und zitieren
@@ -567,7 +566,7 @@ Offene Daten (Open Data) werden von öffentlichen Einrichtungen, Forschungseinri
 
 - **Staatliche Open Data Portale**, z. B. [GOVDATA](https://www.govdata.de/), [Open Data Portal Schleswig-Holstein](https://opendata.schleswig-holstein.de/)
 - **Institutionelle Open Data Portale**, z. B. [opendata@uni-kiel.de](https://opendata.uni-kiel.de/)
-- Generische **Forschungsdaten-Repositorien**, z. B. [Zenodo](https://zenodo.org/) 
+- Generische **Forschungsdaten-Repositorien**, z. B. [Zenodo](https://zenodo.org/)
 - **Fach- und themenspezifische Datenportale**, z. B. [Schriftgut.SH](https://schriftgut.sh/viewer/index/), [Papyri.info](https://papyri.info/)
 
 ---
@@ -595,11 +594,9 @@ Eine Quellenangabe für einen Datensatz sollte möglichst folgende Informationen
 
 **Recherchieren Sie im Open Data Portal Schleswig-Holstein oder in einem anderen Open-Data-Portal einen beliebigen Datensatz, der für eine eigene historische, gesellschaftliche oder räumliche Forschungsfrage interessant sein könnte und schreiben Sie eine Quellenangabe für den Datensatz.
 
-
 **Beispiel für eine Quellenangabe:**
 
 Landeshauptstadt Kiel (2024): Bäume auf städtischem Grund in der Landeshauptstadt Kiel. Datensatz, Open Data Schleswig-Holstein. Online verfügbar unter: https://opendata.schleswig-holstein.de/v2/dataset/baume-auf-stadtischem-grund-in-der-landeshauptstadt-kiel (abgerufen am xx.xx.xxxx).
-
 
 **************
 
