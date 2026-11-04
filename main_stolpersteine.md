@@ -507,6 +507,9 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel (im Olat-Ordner):
 >Stellen Sie Ihre gemeinsame Tabellenstruktur im Plenum vor. Erläutern Sie dabei kurz Ihre Diskussionen und Entscheidungen.
 
 ---
+### Diskussionsfrage zu Frese/Weidner und Schrader
+
+Inwiefern sind Stolpersteine Ausdruck einer gesellschaftlich ausgehandelten Erinnerungskultur, und welche Chancen und Probleme dieser Form des Gedenkens werden in den beiden Texten deutlich?
 
 ### Recap Open Data
 
