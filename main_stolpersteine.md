@@ -492,12 +492,119 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel (im Olat-Ordner):
 - Frese Matthias, Weidner Matthias (Hg.): Verhandelte Erinnerungen. Der Umgang mit Ehrungen, Denkmälern und Gedenkorten nach 1945, Einleitung S. 7-21.
 - Schrader, Ulrike: Die „Stolpersteine“ oder: Von der Leichtigkeit des Gedenkens - Einige kritische Anmerkungen, S. 237-253.
 
+## Sitzung 3
 
-### Data Assessment: Stolpersteine Kiel
+### Von der Biografie zu Forschungsdaten 2
 
-**Aufgabe:** Suchen Sie im [Open Data Portal Schleswig-Holstein](https://opendata.schleswig-holstein.de/dataset) nach einem Datensatz zum Thema Stolpersteine in Kiel.
+>**Gruppenarbeit**:
+>
+>Sie haben zum heutigen Termin Ihre Rechercheergebnisse zu einem Kieler Stolperstein in eine Tabelle überführt und damit strukturierte Forschungsdaten generiert.
+>
+>Vergleichen Sie Ihrer Gruppe den Aufbau der entstandenen Tabellen. Unterscheiden sich die Tabellen in Struktur und/oder den Spaltenbenennungen?
+>
+>Einigen Sie sich in Ihrer Gruppe auf eine gemeinsame Tabellenstruktur.
+>
+>Stellen Sie Ihre gemeinsame Tabellenstruktur im Plenum vor. Erläutern Sie dabei kurz Ihre Diskussionen und Entscheidungen.
 
-Füllen Sie die Checkliste anhand der verfügbaren Informationen aus. Halten Sie fest, wo Sie Ihre Antworten gefunden haben. Kennzeichnen Sie Fragen, die Sie nicht beantworten können.
+---
+
+### Recap Open Data
+
+Wir haben uns in der letzen Sitzung darüber unterhalten, was **Open Data** ist.
+
+Kurze Widerholung:
+
+**Frage 1: Welche Merkmale zeichnen Open Data aus?** (Mehrere Antworten möglich.)
+
+[[ ]] Kostenfreie Nutzung ausschließlich für wissenschaftliche Zwecke
+[[X]] Freier Zugang zu den Daten
+[[X]] Angabe einer offenen Lizenz
+[[X]] Möglichkeit zur Weiterverbreitung
+[[ ]] Verpflichtende Registrierung auf Datenportal bei der Nutzung
+[[X]] Möglichkeit zur Bearbeitung
+
+---
+
+**Frage 2: Welche der folgenden Lizenzen eignen sich für die Veröffentlichung von Open Data?** (Mehrere Antworten möglich.)
+
+[[X]] Creative Commons CC BY-SA 4.0
+[[ ]] Creative Commons CC BY-NC-ND 4.0
+[[X]] Creative Commons CC0
+[[ ]] Creative Commons CC BY-NC-SA
+[[ ]] Creative Commons CC BY-ND 4.0
+[[X]] Creative Commons CC BY 4.0
+[[ ]] Creative Commons CC BY-NC 4.0
+[[ ]] Keine der genannten
+
+---
+
+**Frage 3: Was bedeutet die Abkürzung CC BY?** (Mehrere Antworten möglich.)
+
+[[ ]] Die Ressource darf nicht kommerziell genutzt werden.
+[[X]] Die Ressource darf genutzt und verändert werden, sofern die Urheberinnen und Urheber genannt werden.
+[[ ]] Die Ressource darf nur unverändert weitergegeben werden.
+[[ ]] Die Ressource ist vollständig gemeinfrei.
+
+---
+
+**Frage 4: Was ist bei der Nutzung offener Daten zu beachten?** (Mehrere Antworten möglich.)
+
+[[ ]] Open Data darf grundsätzlich ohne Einschränkungen für jeden Zweck verwendet werden.
+[[X]] Die jeweiligen Lizenzbedingungen müssen eingehalten werden.
+[[ ]] Open Data darf nur von öffentlichen Einrichtungen verwendet werden.
+[[ ]] Die Daten müssen bei jeder Verwendung erneut beantragt werden.
+[[X]] Die jeweiligen Lizenzbedingungen müssen eingehalten werden.
+[[X]] Die Datenqualität muss für jeden Datensatz geprüft werden.
+
+### Open Data finden und zitieren
+
+{{0-1}}
+**************
+Offene Daten (Open Data) werden von öffentlichen Einrichtungen, Forschungseinrichtungen oder anderen Organisationen zur freien Nutzung bereitgestellt.
+
+- **Staatliche Open Data Portale**, z. B. [GOVDATA](https://www.govdata.de/), [Open Data Portal Schleswig-Holstein](https://opendata.schleswig-holstein.de/)
+- **Institutionelle Open Data Portale**, z. B. [opendata@uni-kiel.de](https://opendata.uni-kiel.de/)
+- Generische **Forschungsdaten-Repositorien**, z. B. [Zenodo](https://zenodo.org/) 
+- **Fach- und themenspezifische Datenportale**, z. B. [Schriftgut.SH](https://schriftgut.sh/viewer/index/), [Papyri.info](https://papyri.info/)
+
+---
+
+**************
+
+{{1-2}}
+**************
+
+**Aufgabe: Einen offenen Datensatz finden & zitieren**
+
+Auch offene Daten müssen wissenschaftlich nachgewiesen werden. Eine Quellenangabe ermöglicht anderen Personen, die verwendeten Daten wiederzufinden und die Analysen nachzuvollziehen.
+
+Eine Quellenangabe für einen Datensatz sollte möglichst folgende Informationen enthalten:
+
+- Autor bzw. herausgebende Institution
+- Veröffentlichungsjahr bzw. Aktualisierungsjahr
+- Titel des Datensatzes
+- Kennzeichnung als Datensatz
+- Datenportal bzw. Repository
+- DOI oder stabile URL
+- gegebenenfalls Versionsnummer/Änderungsdatum und Abrufdatum
+
+---
+
+**Recherchieren Sie im Open Data Portal Schleswig-Holstein oder in einem anderen Open-Data-Portal einen beliebigen Datensatz, der für eine eigene historische, gesellschaftliche oder räumliche Forschungsfrage interessant sein könnte und schreiben Sie eine Quellenangabe für den Datensatz.
+
+
+**Beispiel für eine Quellenangabe:**
+
+Landeshauptstadt Kiel (2024): Bäume auf städtischem Grund in der Landeshauptstadt Kiel. Datensatz, Open Data Schleswig-Holstein. Online verfügbar unter: https://opendata.schleswig-holstein.de/v2/dataset/baume-auf-stadtischem-grund-in-der-landeshauptstadt-kiel (abgerufen am xx.xx.xxxx).
+
+
+**************
+
+### Quellen- und Datenkritik: Stolpersteine Kiel
+
+**Aufgabe:** Finden Sie im [Open Data Portal Schleswig-Holstein](https://opendata.schleswig-holstein.de/dataset) den Datensatz Stolpersteine in Kiel.
+
+Füllen Sie die Checkliste soweit möglich anhand der verfügbaren Informationen aus. Halten Sie fest, wo Sie Ihre Antworten gefunden haben. Kennzeichnen Sie Fragen, die Sie nicht beantworten können.
 
 | Kriterium | Leitfragen |
 |---|---|
