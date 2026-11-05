@@ -509,7 +509,22 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel (im Olat-Ordner):
 ---
 ### Diskussionsfrage zu Frese/Weidner und Schrader
 
-Inwiefern sind Stolpersteine Ausdruck einer gesellschaftlich ausgehandelten Erinnerungskultur, und welche Chancen und Probleme dieser Form des Gedenkens werden in den beiden Texten deutlich?
+Warum und durch wen verändert sich die öffentliche Erinnerung an die Vergangenheit und damit auch die Bedeutung von Denkmälern?
+
+{{1}}
+********************************************************************************
+
+**Kernaussage:** Erinnerungskultur ist nicht unveränderlich, sondern wird gesellschaftlich ausgehandelt und immer wieder neu gestaltet.
+
+********************************************************************************
+Welche unterschiedlichen Kritikpunkte am Stolperstein-Projekt nennt Ulrike Schrader?
+
+{{1}}
+********************************************************************************
+
+**Kernaussage:** Ulrike Schrader kritisiert, dass das Stolperstein-Projekt häufig unhinterfragt Zustimmung findet. Sie fordert eine kritische Auseinandersetzung mit der Form des Gedenkens, der Auswahl der erinnerten Personen und den unterschiedlichen Perspektiven der Betroffenen.
+
+********************************************************************************
 
 ### Recap Open Data
 
