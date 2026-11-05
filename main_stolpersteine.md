@@ -509,7 +509,12 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel (im Olat-Ordner):
 ---
 ### Diskussionsfrage zu Frese/Weidner und Schrader
 
+{{0}}
+********************************************************************************
+
 Warum und durch wen verändert sich die öffentliche Erinnerung an die Vergangenheit und damit auch die Bedeutung von Denkmälern?
+
+********************************************************************************
 
 {{1}}
 ********************************************************************************
@@ -517,9 +522,17 @@ Warum und durch wen verändert sich die öffentliche Erinnerung an die Vergangen
 **Kernaussage:** Erinnerungskultur ist nicht unveränderlich, sondern wird gesellschaftlich ausgehandelt und immer wieder neu gestaltet.
 
 ********************************************************************************
+
+### Diskussionsfrage zu Ulrike Schrader
+
+{{2}}
+********************************************************************************
+
 Welche unterschiedlichen Kritikpunkte am Stolperstein-Projekt nennt Ulrike Schrader?
 
-{{1}}
+********************************************************************************
+
+{{3}}
 ********************************************************************************
 
 **Kernaussage:** Ulrike Schrader kritisiert, dass das Stolperstein-Projekt häufig unhinterfragt Zustimmung findet. Sie fordert eine kritische Auseinandersetzung mit der Form des Gedenkens, der Auswahl der erinnerten Personen und den unterschiedlichen Perspektiven der Betroffenen.
