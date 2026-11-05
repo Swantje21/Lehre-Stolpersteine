@@ -600,7 +600,10 @@ Landeshauptstadt Kiel (2024): Bäume auf städtischem Grund in der Landeshauptst
 
 **************
 
-### Quellen- und Datenkritik: Stolpersteine Kiel
+### Aufgabe zur nächsten Woche
+
+Quellen- und Datenkritik: Stolpersteine Kiel
+---
 
 **Aufgabe:** Finden Sie im [Open Data Portal Schleswig-Holstein](https://opendata.schleswig-holstein.de/dataset) den Datensatz Stolpersteine in Kiel.
 
@@ -620,7 +623,8 @@ Füllen Sie die Checkliste soweit möglich anhand der verfügbaren Informationen
 | **10. Repräsentation und Perspektive** | Welche Personen, Orte und Aspekte der Geschichte werden sichtbar? Welche Informationen oder Perspektiven könnten fehlen? Was sollte bei der Interpretation berücksichtigt werden? |
 | **11. Eignung für eine Fragestellung** | Welche historischen oder räumlichen Fragen könnten Sie mit den Daten untersuchen? Welche zusätzlichen Daten oder Aufbereitungsschritte wären dafür nötig? |
 
-### Quellenkritik: Der Stolperstein als Erinnerungszeichen
+Quellenkritik: Der Stolperstein als Erinnerungszeichen
+---
 
 | Kriterium | Leitfragen |
 |---|---|
