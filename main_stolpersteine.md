@@ -82,6 +82,9 @@ Details folgen im Laufe des Semesters.
 
 ## Sitzung 1
 
+<!-- align="right" -->
+2026-10-22
+
 Was erzählt uns ein Stolperstein?
 ---
 
@@ -216,6 +219,8 @@ Halten Sie Ihre Überlegungen in Stichpunkten fest (max. eine Seite). Bringen Si
 
 ## Sitzung 2
 
+<!-- align="right" -->
+2026-10-29
 
 ### Wie definiert Christoph Cornelißen Erinnerungskultur?
 
@@ -494,6 +499,9 @@ Bitte lesen Sie zur nächsten Woche die folgenden Artikel (im Olat-Ordner):
 
 ## Sitzung 3
 
+<!-- align="right" -->
+2026-11-05
+
 ### Von der Biografie zu Forschungsdaten 2
 
 >**Gruppenarbeit**:
@@ -660,3 +668,149 @@ Quellenkritik: Der Stolperstein als Erinnerungszeichen
 | **2. Materialität und Gestaltung** | Welche Bedeutung haben Material, Größe, Gestaltung und die Platzierung im öffentlichen Raum für die Wirkung des Stolpersteins? |
 | **3. Rezeption und Erinnerungskultur** | Wie wird der Stolperstein im öffentlichen Raum wahrgenommen? Welche unterschiedlichen Haltungen gegenüber dieser Form des Gedenkens gibt es? |
 | **4. Historischer Erkenntniswert** | Was erfahren wir durch den Stolperstein über den heutigen Umgang mit der NS-Vergangenheit? Welche Grenzen hat er als historische Quelle? |
+
+## Sitzung 4
+
+<!-- align="right" -->
+2026-11-12
+
+### Technische Verarbeitbarkeit
+
+>Ein Kriterium für die **Quellen- und Datenkritik** ist die Einschätzung der technischen Verarbeitbarkeit der zur Verfügung gestellten Daten. Wie bewerten wir diesbezüglich den Datensatz [Stolpersteine Kiel](https://opendata.schleswig-holstein.de/dataset/stolpersteine-in-kiel)?
+
+---
+
+<!-- style="font-size: 28px;" -->
+1. **In welchen Dateiformaten werden die Daten angeboten?**
+
+{{1}}
+**************
+- **CSV** – Comma-Separated Values
+- **GeoJSON** – Geographic JavaScript Object Notation
+- **GML3** – Geography Markup Language
+
+---
+
+<br>
+
+**************
+
+<!-- style="font-size: 28px;" -->
+2. **Sind die Dateiformate maschinenlesbar und mit gängigen Werkzeugen weiterzuverarbeiten?**
+
+{{2}}
+**************
+- Ja. Sowohl **CSV** als auch **GeoJSON** als auch **GML3** lassen sich grundsätzlich mit einem einfachen Texteditor öffnen, lesen und bearbeiten. Alle drei Formate sind textbasiert.
+
+---
+
+<br>
+**************
+
+<!-- style="font-size: 28px;" -->
+3. **Gibt es einen Download oder eine API?**
+
+{{3}}
+**************
+
+- Ja. Das Portal stellt einen direkten Download zur Verfügung. Zusätzlich besteht über einen WFS (Web Feature Service) eine maschinenlesbare Schnittstelle (API) zum Abruf der Geodaten. Damit ist sowohl die lokale Weiterverarbeitung (Download) als auch ein automatisierter Datenzugriff (API) grundsätzlich möglich.
+
+- *Was ist der Unterschied zwischen Download und API? -> Beim Download wird eine Datei zu einem bestimmten Zeitpunkt heruntergeladen. Über eine API können Daten direkt von einer Schnittstelle abgerufen werden.*
+
+**************
+
+### Dateiformate
+
+Was ist eigentlich ein Dateiformat?
+---
+
+>- Ein Dateiformat legt fest, wie Informationen in einer Datei strukturiert und gespeichert werden. Es bestimmt damit unter anderem, wie ein Computerprogramm die enthaltenen Informationen lesen, interpretieren und darstellen kann.
+>
+>- Häufig lässt sich das Dateiformat an der Dateiendung erkennen, beispielsweise .pdf, .jpg, .csv oder .geojson.
+>
+>- Nicht jedes Dateiformat lässt sich mit jeder Software öffnen! Während sich eine CSV-Datei beispielsweise sowohl mit Excel oder LibreOffice Calc als auch mit einem einfachen Texteditor betrachten und bearbeiten lässt, benötigt man z. B. für ein Shapefile möglicherweise ein spezielles Programm wie QGIS oder ArcGis.
+>
+>- Manche Dateiformate sind eher für die Darstellung und den Austausch von Informationen gedacht, andere ermöglichen die einfachere Bearbeitung.
+>
+>>**--> Es ist immer sinnvoll sich vor Beginn der Arbeit zu überlegen, mit welchen Dateiformaten man arbeiten möchte oder muss!**
+
+#### CSV – Comma-Separated Values
+
+{{0}}
+**************
+CSV – Comma-Separated Values
+---
+**************
+
+{{1-2}}
+**************
+- Tabellarisches Format: Zeilen und Spalten
+- Standardausrichtung: Jede Spalte steht für ein Merkmal, jede Zeile enthält einen Datensatz (Angaben der Merkmale) 
+
+  - Standardausrichtung erleichtert ggf. Auswertung. Analyseprogramme erwarten Daten häufig nach dem Prinzip „eine Zeile = eine Beobachtung, eine Spalte = ein Merkmal“.
+
+- Werte werden durch Trennzeichen (z. B. Komma oder Semikolon) getrennt
+- eignet sich gut für Tabellenkalkulation und statistische Auswertung
+
+**************
+
+{{2}}
+**************
+
+![CSV-Dateiformat in verschiedenen Ansichten](images/csv-ansicht.png)
+
+**************
+
+
+#### GeoJSON – Geographic JavaScript Object Notation
+
+{{0}}
+**************
+GeoJSON – Geographic JavaScript Object Notation
+---
+**************
+
+{{1-2}}
+**************
+- Textbasiertes Format für geografische Daten
+- Enthält sowohl beschreibende Informationen (Attribute) als auch Geometrien
+- Verwendet beispielsweise Punkte, Linien und Flächen
+- Gut für Webkarten und GIS-Anwendungen
+
+**************
+
+{{2}}
+**************
+![GEOjson-Dateiformat](images/geojson-ansicht.png)
+**************
+
+
+#### GML3 – Geography Markup Language
+
+{{0}}
+**************
+GML3 – Geography Markup Language
+---
+**************
+
+{{1-2}}
+**************
+- XML-basiertes Format für geografische Daten
+- Enthält strukturierte Informationen und Geometrien
+- Kann komplexere räumliche Daten und deren Eigenschaften beschreiben
+- Wird häufig im Austausch zwischen GIS-Systemen und Geodateninfrastrukturen verwendet
+
+**************
+
+{{2}}
+**************
+![GML3-Dateiformat](images/gml3-ansicht.png)
+**************
+
+### Hands-On!
+
+>**Aufgabe:**
+>
+>1. Laden Sie die CSV-Datei des Datensatzes Stolpersteine Kiel auf Ihr Gerät.
+>2. Vergeben Sie einen eindeutigen Dateinamen, z.B. `Stolpersteine_Kiel_Original_[Abrufdatum].csv`
+>3. Öffnen Sie die Datei sowohl in einem einfachen Texteditor (Notepad) als auch in Excel, LibreOffice Calc oder einer anderen Tabellenkalulationssoftware.
