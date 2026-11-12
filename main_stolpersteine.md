@@ -814,3 +814,4 @@ GML3 – Geography Markup Language
 >1. Laden Sie die CSV-Datei des Datensatzes Stolpersteine Kiel auf Ihr Gerät.
 >2. Vergeben Sie einen eindeutigen Dateinamen, z.B. `Stolpersteine_Kiel_Original_[Abrufdatum].csv`
 >3. Öffnen Sie die Datei sowohl in einem einfachen Texteditor (Notepad) als auch in Excel, LibreOffice Calc oder einer anderen Tabellenkalulationssoftware.
+
