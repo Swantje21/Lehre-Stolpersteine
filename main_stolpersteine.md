@@ -820,34 +820,44 @@ GML3 – Geography Markup Language
 2026-11-19
 
 
+
 ### Was macht eine gute Forschungsfrage aus?
+*Nach: Sonntag, Forschendes Lernen im Seminar. Ein Leitfaden für Lehrende, S. 29–31.
+    {{1}}
+********************************************************************************
 
-*Nach Sonntag: „Forschendes Lernen im Seminar“, S. 29–31*
-
-{{1}}
 **1. Was genau wollen wir untersuchen?**
 
 Die Frage ist klar formuliert und ausreichend eingegrenzt.
 
-{{2}}
+********************************************************************************
+
+    {{2}}
+********************************************************************************
+
 **2. Womit können wir die Frage beantworten?**
 
 Geeignete Quellen, Daten und Methoden sind vorhanden.
 
-{{3}}
+********************************************************************************
+
+    {{3}}
+********************************************************************************
+
 **3. Ist unsere Untersuchung durchführbar?**
 
 Zeit, Umfang und erforderliche Fähigkeiten passen zusammen.
 
-{{4}}
+********************************************************************************
+
+    {{4}}
+********************************************************************************
+
 **4. Was macht die Frage interessant?**
 
 Sie verfolgt ein nachvollziehbares Erkenntnisinteresse.
 
-{{5}}
----
-
-**Zusatzfrage für Digital History:**
+********************************************************************************
 
 Welchen Erkenntnisgewinn verspricht der Einsatz digitaler Quellen oder Methoden?
 
