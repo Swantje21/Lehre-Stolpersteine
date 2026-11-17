@@ -815,3 +815,39 @@ GML3 – Geography Markup Language
 >2. Vergeben Sie einen eindeutigen Dateinamen, z.B. `Stolpersteine_Kiel_Original_[Abrufdatum].csv`
 >3. Öffnen Sie die Datei sowohl in einem einfachen Texteditor (Notepad) als auch in Excel, LibreOffice Calc oder einer anderen Tabellenkalulationssoftware.
 
+## Sitzung 5
+<!-- align="right" -->
+2026-11-19
+
+
+### Was macht eine gute Forschungsfrage aus?
+
+*Nach Sonntag: „Forschendes Lernen im Seminar“, S. 29–31*
+
+{{1}}
+**1. Was genau wollen wir untersuchen?**
+
+Die Frage ist klar formuliert und ausreichend eingegrenzt.
+
+{{2}}
+**2. Womit können wir die Frage beantworten?**
+
+Geeignete Quellen, Daten und Methoden sind vorhanden.
+
+{{3}}
+**3. Ist unsere Untersuchung durchführbar?**
+
+Zeit, Umfang und erforderliche Fähigkeiten passen zusammen.
+
+{{4}}
+**4. Was macht die Frage interessant?**
+
+Sie verfolgt ein nachvollziehbares Erkenntnisinteresse.
+
+{{5}}
+---
+
+**Zusatzfrage für Digital History:**
+
+Welchen Erkenntnisgewinn verspricht der Einsatz digitaler Quellen oder Methoden?
+
