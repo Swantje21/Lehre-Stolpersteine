@@ -819,10 +819,12 @@ GML3 – Geography Markup Language
 <!-- align="right" -->
 2026-11-19
 
-
-
 ### Was macht eine gute Forschungsfrage aus?
+
 *Nach: Sonntag, Forschendes Lernen im Seminar. Ein Leitfaden für Lehrende, S. 29–31.
+
+---
+
     {{1}}
 ********************************************************************************
 
@@ -859,5 +861,97 @@ Sie verfolgt ein nachvollziehbares Erkenntnisinteresse.
 
 ********************************************************************************
 
+    {{5}}
+***************
 Welchen Erkenntnisgewinn verspricht der Einsatz digitaler Quellen oder Methoden?
+***************
+
+### Geodaten
+
+>[!IMPORTANT] Unter Geodaten versteht man (digitale) Daten, denen bestimmte räumliche Lagen auf der Erdoberfläche zugewiesen werden können (Raumbezug oder Georeferenz).
+>Der Raumbezug (oder die Georeferenz) macht also den entscheidenen Unterschied zu "normalen" Daten.
+
+Geodaten sind also...
+- **Sachdaten** (z. B. Name, Geburtsdatum, biografische Informationen, Messwerte), denen eine bestimmte 
+- **Geometrie** (räumliche Beschreibung eines Objekts) und eine
+- **Georeferenzierung** (Zuordnung eines Objekts zu einer Position im geografischen Raum) zugeordnet wurde.
+
+#### Geometrien
+
+Geodaten können in verschiedenen geometrischen Formen vorliegen. 
+Die grundlegenden Formen sind:
+
+<!-- style="width: 60%; background-color: lightblue" -->
+```ascii
+
+     PUNKT                 LINIE                 POLYGON
+
+       ●                  ●──────●               ●────────● 
+                                                /          \
+                                               /            \
+                                              ●──────────────●  
+
+```
+
+| Geometrische Form | Beschreibung | Beispiel |
+| ----------------- | ------------ | -------- |
+| Punkt             | Repräsentiert diskrete Orte         | Standort eines Stolpersteins     |
+| Linie             | Repräsentiert lineare Merkmale         | Straßenverlauf, Flüsse, Stromleitungen     |
+| Polygon           | Repräsentiert Flächen         | Seen, Grundstücke, Schutzgebiete, Stadtteile     |
+
+---
+
+#### Koordinaten
+
+>[!IMPORTANT] Geografische Koordinaten beschreiben die Position eines Ortes auf der Erdoberfläche.
+
+**Breitengrade (Latitude)**
+
+- Verlaufen parallel zum Äquator.
+- Werte: 0° am Äquator, bis 90° Nord/Süd an den Polen.
+- Geben die Position nördlich oder südlich des Äquators an.
+
+**Längengrad (Longitude)**
+
+- Verbinden Nord- und Südpol.
+- Werte: 0° am Nullmeridian (Greenwich), bis 180° Ost bzw. 180° West.
+- Gibt die Position östlich oder westlich des Nullmeridians an.
+
+![Längen- und Breitegrade](images\Latitude_and_Longitude_of_the_Earth.svg.webp)
+
+<a href="https://commons.wikimedia.org/wiki/File:Latitude_and_Longitude_of_the_Earth.svg">Djexplo</a>, CC0, via Wikimedia Commons
+
+### Dokumention
+
+>[!IMPORTANT] Dokumentieren, dokumentieren, dokumentieren...!
+>Ab jetzt müssen wir notieren, was wir mit dem Originaldatensatz gemacht haben, damit alle Bearbeitungsschritte transparent bleiben.
+>
+>Legt Euch eine Tabelle an, in der Ihr Eure Bearbeitungsschritte dokumentiert!
+
+---
+
+***Datenaufbereitung***
+
+Was wurde mit dem ursprünglichen Datensatz gemacht?
+Welche Veränderungen am ursprünglichen Datensatz wurden vorgenommen?
+
+| Arbeitsschritt                     | Beschreibung/Begründung |
+| ---------------------------------- | ----------------------- |
+| Exploration csv & Geojson          |                         |
+| Umwandlung Geojson in csv via uMap |                         |
+| weitere Bearbeitungsschritte       |                         |
+| ...                                |                         |
+
+
+
+***Datenanreicherung***
+
+Habt ihr neue Variablen/Informationen ergänzt oder zusätzliche Datensätze verknüpft?
+
+| Neue Variable / Information        | Vorgehen/Begründung | Quelle |
+| ---------------------------------- | ----------------------- | ------ |
+| Exploration csv & Geojson          |                         |        |
+| Umwandlung Geojson in csv via uMap |                         |        |
+| weitere Bearbeitungsschritte       |                         |        |
+| ...                                |                         |        |
 
