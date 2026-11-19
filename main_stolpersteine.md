@@ -960,5 +960,9 @@ Habt ihr neue Variablen/Informationen ergänzt oder zusätzliche Datensätze ver
 > Formulieren Sie eine erste Forschungsfrage für Ihr individuelles Projekt auf Grundlage des Kieler Stolperstein-Datensatzes.
 > Überlegen Sie, durch welche eigenständig recherchierten historischen Informationen Sie den bestehenden Datensatz anreichern müssten, um Ihre Forschungsfrage untersuchen zu können.
 
+> Und denken Sie daran: Dokumentieren, dokumentieren, dokumentieren...!
+Ab jetzt müssen wir notieren, was wir mit dem Originaldatensatz gemacht haben, damit alle Bearbeitungsschritte transparent bleiben. Nutzen Sie die vorbereiteten Tabellen und ergänzen Sie die nächsten Arbeitsschritte.
+
+
 
 
