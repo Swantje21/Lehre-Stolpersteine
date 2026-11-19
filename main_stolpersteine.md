@@ -954,3 +954,11 @@ Habt ihr neue Variablen/Informationen ergänzt oder zusätzliche Datensätze ver
 | Geschlecht                  |                     |        |
 | ...                         |                     |        |
 
+
+### Aufgabe zur nächsten Woche
+
+> Formulieren Sie eine erste Forschungsfrage für Ihr individuelles Projekt auf Grundlage des Kieler Stolperstein-Datensatzes.
+> Überlegen Sie, durch welche eigenständig recherchierten historischen Informationen Sie den bestehenden Datensatz anreichern müssten, um Ihre Forschungsfrage untersuchen zu können.
+
+
+
