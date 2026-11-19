@@ -930,7 +930,8 @@ Die grundlegenden Formen sind:
 
 ---
 
-***Datenaufbereitung***
+Datenaufbereitung
+---
 
 Was wurde mit dem ursprünglichen Datensatz gemacht?
 Welche Veränderungen am ursprünglichen Datensatz wurden vorgenommen?
@@ -943,15 +944,13 @@ Welche Veränderungen am ursprünglichen Datensatz wurden vorgenommen?
 | ...                                |                         |
 
 
-
-***Datenanreicherung***
+Datenanreicherung
+---
 
 Habt ihr neue Variablen/Informationen ergänzt oder zusätzliche Datensätze verknüpft?
 
-| Neue Variable / Information        | Vorgehen/Begründung | Quelle |
-| ---------------------------------- | ----------------------- | ------ |
-| Exploration csv & Geojson          |                         |        |
-| Umwandlung Geojson in csv via uMap |                         |        |
-| weitere Bearbeitungsschritte       |                         |        |
-| ...                                |                         |        |
+| Neue Variable / Information | Vorgehen/Begründung | Quelle |
+| --------------------------- | ------------------- | ------ |
+| Geschlecht                  |                     |        |
+| ...                         |                     |        |
 
