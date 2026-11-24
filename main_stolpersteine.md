@@ -996,4 +996,35 @@ Stellen Sie sich gegenseitig Ihre Forschungsfragen vor und überprüfen Sie dies
 
 Überarbeiten Sie gegebenenfalls Ihre Forschungsfrage auf Grundlage des erhaltenen Feedbacks.
 
+### Von der Forschungsfrage zur Datenanreicherung
+
+Nicht jede historische Information ist für jede Forschungsfrage gleichermaßen relevant. Die Forschungsfrage bestimmt, welche zusätzlichen Daten wir benötigen.
+
+| Mögliches Forschungsinteresse | Mögliche zusätzliche Variablen |
+|---|---|
+| Sozialstruktur der verfolgten Personen | Beruf, berufliche Stellung |
+| Familien- und Beziehungsstrukturen | Verwandtschaftsbeziehungen, Familienstand |
+| Verfolgungswege | Haftorte, Deportationsorte, Aufenthaltsdaten |
+| Entwicklung der lokalen Erinnerungskultur | Initiator:innen, Patenschaften, Verlegeanlässe |
+| Historische Wohnverhältnisse | Weitere Wohnadressen, Wohnzeiträume |
+
+**Welche dieser Informationen lassen sich systematisch recherchieren und erfassen?**
+
+
+### Vom Forschungsinteresse zum eigenen Projekt
+
+**Individuelle Bearbeitungszeit (25 Minuten)**
+
+Konkretisieren Sie Ihr individuelles Forschungsprojekt und halten Sie Ihre Überlegungen in der folgenden Tabelle fest.
+
+| Aspekt | Eigenes Projekt |
+|---|---|
+| Forschungsfrage | |
+| Historisches Erkenntnisinteresse | |
+| Auswahl der zu untersuchenden Personen | |
+| Benötigte zusätzliche Variablen | |
+| Mögliche Quellen und Rechercheorte | |
+| Mögliche Auswertungs- und Visualisierungsformen | |
+| Offene Fragen und Schwierigkeiten | |
+
 
