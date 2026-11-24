@@ -979,3 +979,21 @@ Habt ihr neue Variablen/Informationen ergänzt oder zusätzliche Datensätze ver
 - Wie sind Sie mit fehlenden Informationen umgegangen?
 - Wie haben Sie die Ergänzung des Datensatzes dokumentiert?
 
+  
+### Gruppenarbeit zur Forschungsfrage
+
+**Gruppenarbeit (20 Minuten)**
+
+Stellen Sie sich gegenseitig Ihre Forschungsfragen vor und überprüfen Sie diese anhand der folgenden Kriterien:
+
+| Kriterium | Leitfrage |
+|---|---|
+| Eingrenzung | Ist die Forschungsfrage klar und ausreichend eingegrenzt? |
+| Quellen und Daten | Sind geeignete Quellen und Daten verfügbar? |
+| Durchführbarkeit | Ist das Vorhaben im Rahmen des Seminars realisierbar? |
+| Erkenntnisinteresse | Welchen historischen Erkenntnisgewinn verspricht die Untersuchung? |
+| Digitale Methoden | Welchen Mehrwert bietet die datenbasierte Untersuchung? |
+
+Überarbeiten Sie gegebenenfalls Ihre Forschungsfrage auf Grundlage des erhaltenen Feedbacks.
+
+
