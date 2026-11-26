@@ -1028,3 +1028,12 @@ Konkretisieren Sie Ihr individuelles Forschungsprojekt und halten Sie Ihre Über
 | Offene Fragen und Schwierigkeiten | |
 
 
+### Kategorie Geschlecht
+
+In der letzten Sitzung wurde in Gruppen an der Ergänzung einer zusätzlichen Kategorie "Geschlecht" gearbeitet.
+
+- Mit welchen Methoden wurde das Geschlecht bestimmt?
+- Vergleich der Ergebnisse
+
+- Hands-on: Auswertung der Ergebnisse in Tabellenkalulationssoftware
+- Hands-on: Darstellung der Ergebnisse in uMap
