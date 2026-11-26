@@ -1025,11 +1025,19 @@ Nicht jede historische Information ist für jede Forschungsfrage gleichermaßen 
 **Welche dieser Informationen lassen sich systematisch recherchieren und erfassen?**
 
 
-### Vom Forschungsinteresse zum eigenen Projekt
+### Kategorie Geschlecht
 
-**Individuelle Bearbeitungszeit (25 Minuten)**
+In der letzten Sitzung wurde in Gruppen an der Ergänzung einer zusätzlichen Kategorie "Geschlecht" gearbeitet.
 
-Konkretisieren Sie Ihr individuelles Forschungsprojekt und halten Sie Ihre Überlegungen in der folgenden Tabelle fest.
+- Mit welchen Methoden wurde das Geschlecht bestimmt?
+- Vergleich der Ergebnisse
+
+- Hands-on: Auswertung der Ergebnisse in Tabellenkalulationssoftware
+- Hands-on: Darstellung der Ergebnisse in uMap
+
+### Aufgabe zur nächsten Woche
+
+> Bitte konkretisieren Sie zur kommenden Sitzung Ihr individuelles Forschungsprojekt und halten Sie Ihre Überlegungen in der folgenden Tabelle fest.
 
 | Aspekt | Eigenes Projekt |
 |---|---|
@@ -1041,13 +1049,3 @@ Konkretisieren Sie Ihr individuelles Forschungsprojekt und halten Sie Ihre Über
 | Mögliche Auswertungs- und Visualisierungsformen | |
 | Offene Fragen und Schwierigkeiten | |
 
-
-### Kategorie Geschlecht
-
-In der letzten Sitzung wurde in Gruppen an der Ergänzung einer zusätzlichen Kategorie "Geschlecht" gearbeitet.
-
-- Mit welchen Methoden wurde das Geschlecht bestimmt?
-- Vergleich der Ergebnisse
-
-- Hands-on: Auswertung der Ergebnisse in Tabellenkalulationssoftware
-- Hands-on: Darstellung der Ergebnisse in uMap
